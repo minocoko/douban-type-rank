@@ -116,7 +116,8 @@
         "comment": "53923",
         "crew": "卡洛·朗白 / 杰克·本尼 / 罗伯特·斯塔克 / 菲利克斯·布雷萨特 / 莱昂内尔·阿特威尔 / 斯坦利·里吉斯 / 西戈·鲁曼 / 查尔斯·霍尔顿 / George Lynn / Henry Victor / Maude Eburne / 哈利韦尔·霍布斯 / 迈尔斯·曼德 / 鲁道夫·安德斯 / Sven Hugo Borg / 丹尼·鲍沙其 / 巴斯特·布罗迪 / Alec Craig / 赫尔穆特·丹丁 / Jack Deery / Leslie Denison / 詹姆斯·芬利森 / 贝丝·弗劳尔斯 / Stuart Hall / 莱兰·霍奇森 / Shep Houghton / 奥拉夫·许滕 / Charles Irwin / Tiny Jones / 约翰·凯洛格 / Adolf E. Licho / Wilbur Mack / John Meredith / Maurice Murphy / Richard Neill / 拉斯·鲍威尔 / 弗兰克·雷歇尔 / Otto Reichow / Gene Rizzi / John Roy / Hans Schumm / Stephen Soldi / Count Stefenelli / 罗兰德·瓦尔诺 / Ernö Verebes / Dorothy Vernon / Armand 'Curly' Wright / Wolfgang Zilzer / 汤姆·杜根",
         "year": 1942,
-        "misc": "美国 / 喜剧 / 爱情 / 战争"
+        "misc": "美国 / 喜剧 / 爱情 / 战争",
+        "downloaded": true
     },
     {
         "name": "影武者",
@@ -165,7 +166,8 @@
         "comment": "277038",
         "crew": "路易·德·菲奈斯 / 布尔维尔 / 克劳迪奥·布鲁克 / 安德丽·帕里西 / 科莱特·布罗塞 / 迈克·马歇尔 / 玛丽·马凯 / 皮埃尔·贝尔坦 / 本诺·施特岑巴赫 / 玛丽·杜布瓦 / 特里-托马斯 / 西戈德·拉普 / 赖因哈德·科尔德霍夫 / 赫尔穆特·施奈德 / 保罗·普雷博伊斯特 / 汉斯·迈尔 / 居伊·格罗索 / 米歇尔·莫多 / 彼得·雅各布 / 吕迪·勒努瓦 / 诺埃尔·达扎尔 / 皮埃尔·鲁塞尔 / 皮埃尔·巴斯蒂安 / 雅克·萨布隆 / 玛格·阿夫里尔 / 雅克·博杜因 / 加布里埃尔·戈班 / 保罗·梅塞 / 亨利·热内斯 / 童自荣 / 严崇德 / 于鼎 / 尚华",
         "year": 1966,
-        "misc": "法国 / 英国 / 喜剧 / 战争"
+        "misc": "法国 / 英国 / 喜剧 / 战争",
+        "downloaded": true
     },
     {
         "name": "光荣之路",
@@ -1198,87 +1200,6 @@
         "downloaded": true
     },
     {
-        "name": "万湖会议",
-        "rating": 8.1,
-        "rank": 113,
-        "comment": "58139",
-        "crew": "菲利普·霍奇迈尔 / 约翰尼斯·艾麦亚 / 马克西米连·布鲁克纳 / 马提亚斯‧邦德舒 / 法比安·布施 / 雅各布·迪尔 / 莉莉·菲希特纳 / 戈德哈尔德·吉瑟 / 彼得·乔丹 / 阿诺德·克拉威特 / 弗莱德雷克·林克曼 / 托马斯·洛伊布尔 / 萨沙·纳丹 / 马库斯·施莱泽 / 弗雷德里克·施密德 / 西蒙·舒瓦茨 / 拉斐尔·斯塔霍维亚克 / 马蒂亚斯·勃兰特",
-        "year": 2023,
-        "misc": "德国 / 剧情 / 历史 / 战争"
-    },
-    {
-        "name": "猎杀U-571",
-        "rating": 8.1,
-        "rank": 114,
-        "comment": "57786",
-        "crew": "马修·麦康纳 / 比尔·帕克斯顿 / 哈威·凯特尔 / 乔恩·邦·乔维 / 大卫·凯斯 / 托马斯·克莱舒曼 / 杰克·韦伯 / 杰克·诺斯沃迪 / 汤姆·盖里 / 威尔·埃斯蒂斯 / 特伦斯·卡森 / 埃里克·帕拉迪诺 / 戴夫·博沃 / 德雷克·切特伍德 / 马修·塞特尔 / 丽贝卡·蒂尔尼 / 奥列佛·斯托科斯基 / 阿诺德·克拉威特 / Kai Maurer / Robert Lahoda / 彼得·斯塔克 / 恩里奇·雷德曼 / 罗宾·阿斯奎思 / Martin Glade / 诺曼·坎贝尔·里斯 / 张磊 / 徐光宇 / 金永钢",
-        "year": 2000,
-        "misc": "法国 / 美国 / 动作 / 剧情 / 战争"
-    },
-    {
-        "name": "爱国者",
-        "rating": 8.2,
-        "rank": 115,
-        "comment": "37777",
-        "crew": "梅尔·吉布森 / 希斯·莱杰 / 乔莉·理查德森 / 詹森·艾萨克 / 克里斯·库珀 / 丽莎·布瑞纳 / 汤姆·威尔金森 / 罗根·勒曼 / 帕特里克·塔特普洛斯 / 特拉沃·摩根 / 丝凯·麦柯·巴楚沙 / Matthew Mebane / 切基·卡尤 / 皮特·伍德瓦德",
-        "year": 2000,
-        "misc": "美国 / 德国 / 动作 / 剧情 / 战争"
-    },
-    {
-        "name": "巴顿将军",
-        "rating": 8.2,
-        "rank": 116,
-        "comment": "37302",
-        "crew": "乔治·C·斯科特 / 卡尔·莫尔登 / 斯蒂芬·杨 / 迈克尔·斯特朗 / 凯里·洛夫廷 / 莱昂内尔·莫顿 / Richard Münch / 摩根·保罗 / 克林特·里奇 / 保罗·史蒂文斯 / Pat Zurica / 卡尔·米夏埃尔·福格勒 / 道格拉斯·威尔默 / Brandon Brady / Tim Considine / Lowell Thomas / 西格弗莱德·劳奇 / Alan MacNaughton / 弗兰克·拉铁摩尔 / Hellmut Lange / Charles Dennis / 保罗·费斯 / 劳伦斯·多布金 / 戴维·鲍尔 / 杰克·格威利姆 / 彼得·巴克沃斯 / John Barrie / 迈克尔·贝茨 / 爱德华·宾斯 / 哈里·摩根 / 约翰·狄福塞 / Gerald Flood / 詹姆斯·爱德华兹 / 大卫·希里 / 比尔•希克曼 / 哈利·陶布",
-        "year": 1970,
-        "misc": "美国 / 传记 / 剧情 / 战争"
-    },
-    {
-        "name": "望乡",
-        "rating": 8.8,
-        "rank": 117,
-        "comment": "13097",
-        "crew": "栗原小卷 / 田中绢代 / 高桥洋子 / 田中健 / 滨田光夫 / 砂塚秀夫 / 中谷一郎 / 信欣三 / 梅野泰靖 / 山谷初男 / 江幡高志 / 苅谷俊介 / 岸辉子 / 岩崎加根子 / 菅井琴 / 神保共子 / 井口恭子 / 梅泽昌代 / 高山千草 / 水之江泷子 / 小泽荣太郎 / 清水干生 / 童自荣 / 赵慎之 / 李梓",
-        "year": 1974,
-        "misc": "日本 / 剧情 / 历史 / 战争"
-    },
-    {
-        "name": "白色严冬",
-        "rating": 8.4,
-        "rank": 119,
-        "comment": "22145",
-        "crew": "弗洛里安·卢卡斯 / 大卫·克劳斯 / 斯蒂格·亨里克·霍夫 / 拉克兰·尼布尔 / 鲁伯特·格林特 / Knut Joner / Morten Faldaas / Sondre Krogtoft Larsen",
-        "year": 2012,
-        "misc": "挪威 / 瑞典 / 法国 / 剧情 / 历史 / 战争"
-    },
-    {
-        "name": "战争子午线",
-        "rating": 8.8,
-        "rank": 120,
-        "comment": "7173",
-        "crew": "富大龙 / 牛萌萌 / 齐冰 / 江韵辉",
-        "year": 1990,
-        "misc": "中国大陆 / 剧情 / 战争"
-    },
-    {
-        "name": "希特勒的男孩",
-        "rating": 8.2,
-        "rank": 122,
-        "comment": "32030",
-        "crew": "马克思·雷迈特 / 汤姆·希林 / 乔纳斯·杰格梅尔 / 大卫·史崔梭德 / 马丁·格雷斯 / 莱昂·A·科斯滕 / 弗洛里安·斯泰特 / 尤沃钦·毕斯梅尔 / 迈克尔·施内克 / 尤斯图斯·冯·多赫纳尼 / 克劳迪亚·米歇尔森 / 朱莉·恩格尔布雷希特 / 约翰内斯·齐尔纳 / 杰拉德·亚历山大·海德 / Sissy Höfferer / 迈克尔·贝兰 / 林茨·冯·约翰斯顿",
-        "year": 2004,
-        "misc": "德国 / 剧情 / 运动 / 战争"
-    },
-    {
-        "name": "鸟人",
-        "rating": 8.3,
-        "rank": 123,
-        "comment": "25381",
-        "crew": "马修·莫迪恩 / 尼古拉斯·凯奇 / 约翰·哈金斯 / 凯伦·杨 / 布鲁诺·柯比 / Donald Sims / Guy Jones / 查尔斯·A·坦伯罗 / 毛德·温切斯特 / Bud Seese / Irving Selbst / 南茜·费什 / Larry Hochman / 理查德·梅森 / Priscilla Alden / 马绍尔·贝尔 / 山迪·巴朗 / 克丽丝特尔·菲尔德 / 理查德·霍利 / Pat Ryan / 杜广沛",
-        "year": 1984,
-        "misc": "美国 / 剧情 / 战争"
-    },
-    {
         "name": "地狱尖兵",
         "rating": 8.2,
         "rank": 124,
@@ -1801,24 +1722,6 @@
         "downloaded": true
     },
     {
-        "name": "小士兵",
-        "rating": 8,
-        "rank": 238,
-        "comment": "11009",
-        "crew": "安德烈·安德烈耶夫 / 维克多·杜布朗拉沃夫 / 达莉娅·乌苏利亚克 / 朱莉安娜·米赫涅维奇 / 斯维特拉娜·科哲米亚金娜",
-        "year": 2019,
-        "misc": "俄罗斯 / 剧情 / 儿童 / 战争"
-    },
-    {
-        "name": "黑太阳南京大屠杀",
-        "rating": 8.1,
-        "rank": 239,
-        "comment": "5460",
-        "crew": "江明 / 张良",
-        "year": 1995,
-        "misc": "中国香港 / 剧情 / 历史 / 战争"
-    },
-    {
         "name": "与墨索里尼喝茶",
         "rating": 8.3,
         "rank": 246,
@@ -2115,33 +2018,6 @@
         "year": 1933,
         "misc": "中国大陆 / 剧情 / 战争",
         "downloaded": true
-    },
-    {
-        "name": "黑板",
-        "rating": 8,
-        "rank": 349,
-        "comment": "5810",
-        "crew": "Said Mohamadi / 贝纳兹·贾法里 / 巴赫曼·戈巴迪 / Mohamad Karim Rahmati / Rafat Moradi / Mayas Rostami / Saman Akbari / Ahmad Bahrami / Mohamad Moradi / Karim Moradi / Hassan Mohamadi / Rasool Mohamadi / Somaye Veisee / Emre Tetikel",
-        "year": 2000,
-        "misc": "伊朗 / 意大利 / 日本 / 剧情 / 战争"
-    },
-    {
-        "name": "瑞典女王",
-        "rating": 8.2,
-        "rank": 350,
-        "comment": "5096",
-        "crew": "葛丽泰·嘉宝 / 约翰·吉尔伯特 / 伊恩·基思 / 刘易斯·斯通 / 爱德华·诺里斯 / Frank McGlynn Jr. / 格拉登·詹姆斯 / C. Montague Shaw / 蒂尼·桑福德 / 波蒂尔·罗辛 / Georges Renavent / 阿基姆·坦米罗夫 / C.奥布雷·史密斯 / 大卫·托伦斯 / Elizabeth Young / 费迪南·穆尼埃 / 山姆·哈里斯 / Edward Gargan / 雷吉纳德·欧文 / 古斯塔夫·冯·赛费蒂茨 / 保罗·赫斯特 / 理查德·亚历山大 / Hooper Atchley / 韦德·博特勒 / Barbara Barondess / 科拉·苏·科林斯 / 詹姆斯·伯克 / Muriel Evans / 弗莱德·科勒",
-        "year": 1933,
-        "misc": "美国 / 传记 / 剧情 / 历史 / 爱情 / 战争"
-    },
-    {
-        "name": "小玩意",
-        "rating": 8,
-        "rank": 352,
-        "comment": "3197",
-        "crew": "阮玲玉 / 黎莉莉 / 袁丛美 / 罗朋 / 汤天绣 / 刘继群 / 韩兰根 / 苗振宇 / 殷秀岑",
-        "year": 1933,
-        "misc": "中国大陆 / 剧情 / 战争"
     },
     {
         "name": "滑铁卢战役",
@@ -2460,24 +2336,6 @@
         "downloaded": true
     },
     {
-        "name": "翼",
-        "rating": 8,
-        "rank": 464,
-        "comment": "3524",
-        "crew": "克拉拉·鲍 / 查尔斯·巴德·罗杰斯 / 理查德·阿伦 / 乔拜娜·劳斯顿 / 加里·库珀 / 罗斯科·卡恩茨 / 朱莉娅·斯威恩·戈登 / 亨利·B·沃斯奥 / 甘鲍特·史密斯 / 理查德·塔克 / 埃尔·布伦德尔 / 阿莱特·马沙尔",
-        "year": 1927,
-        "misc": "美国 / 剧情 / 爱情 / 战争 / 动作"
-    },
-    {
-        "name": "日本最长的一天",
-        "rating": 8.1,
-        "rank": 472,
-        "comment": "3182",
-        "crew": "宫口精二 / 户浦六宏 / 笠智众 / 山村聪 / 三船敏郎 / 小杉义男 / 志村乔 / 高桥悦史 / 中丸忠雄 / 黑泽年男 / 香川良介 / 明石潮 / 玉川伊佐男 / 二本柳宽 / 武内亨 / 加藤武 / 江原达怡 / 三井弘次 / 土屋嘉男 / 岛田正吾 / 堤康久 / 高田稔 / 加东大介 / 田崎润 / 平田昭彦 / 堺左千夫 / 中村伸郎 / 北龙二 / 藤木悠 / 北村和夫 / 村上冬树 / 北泽彪 / 今福将雄 / 天本英世 / 神山繁 / 浜村纯 / 佐藤允 / 久保明 / 石山健二郎 / 藤田进 / 田中浩 / 佐田丰 / 上田忠好 / 伊藤雄之助 / 长谷川弘 / 青野平义 / 儿玉清 / 浜田寅彦 / 小林桂树 / 中谷一郎 / 山本廉 / 森干太 / 伊吹彻 / 小川安三 / 田岛义文 / 加山雄三 / 新珠三千代 / 井川比佐志 / 小泉博 / 松本幸四郎 / 仲代达矢 / 小濑格 / Hikaru Kitchôji / 夏木顺平 / 阿知波信介 / 大泽健三郎 / 桐野洋雄 / 胜部演之 / 松本白鹦",
-        "year": 1967,
-        "misc": "日本 / 剧情 / 历史 / 战争"
-    },
-    {
         "name": "小叛逆",
         "rating": 8.4,
         "rank": 476,
@@ -2649,7 +2507,8 @@
         "comment": "2144",
         "crew": "拉里莎·戈卢布金娜 / 尼古拉·奥拉宁 / 谢尔盖·尼科年科 / 弗谢沃洛德·萨纳耶夫",
         "year": 1970,
-        "misc": "苏联 / 历史 / 战争"
+        "misc": "苏联 / 历史 / 战争",
+        "downloaded":true
     },
     {
         "name": "奇幻核子战",
@@ -2706,7 +2565,8 @@
         "rank": 570,
         "comment": "1536",
         "year": 1971,
-        "misc": "苏联 / 历史 / 战争"
+        "misc": "苏联 / 历史 / 战争",
+        "downloaded":true
     },
     {
         "name": "战俘列车",
@@ -2742,52 +2602,8 @@
         "comment": "1607",
         "crew": "尼古拉·奥拉宁 / 拉里莎·戈卢布金娜 / Boris Zajdenberg / 谢尔盖·尼科年科 / 弗谢沃洛德·萨纳耶夫 / 弗拉基米尔·萨莫伊洛夫 / 尤里·卡莫尼 / Valeri Nosik / 米哈伊尔·乌里扬诺夫 / 弗拉德连·达维多夫 / Yevgeni Burenkov / 谢尔盖·哈钦科 / 弗拉季斯拉夫·斯特尔热利奇克 / 德米特里·弗兰科 / Bukhuti Zakariadze / Stanislaw Jaskiewicz / Fritz Diez / 伊沃·加拉尼 / Gerd Michael Henneberg / Siegfried Weiß / 汉约·哈塞 / Peter Sturm / 弗洛林·彼耶尔西克 / 阿尔乔姆·卡拉佩强 / 芭芭拉·布雷尔斯卡 / 达尼尔·奥勒布里斯基 / 韦恩泽斯洛·格林斯基 / Ignacy Machowski / Michal Adamczewski / Viktor Bajkov / Nikolai Bogolyubov / 格奥尔吉·布尔科夫 / 维尔纳·迪塞尔 / 尤里·杜布罗温 / Olev Eskola / 采扎里·尤尔斯基 / 尤里·基列耶夫 / 米哈伊尔·科克申诺夫 / Hans-Hartmut Krüger / Heino Mandri / Yuri Martynov / Peter Marx / Grigory Mikhaylov / Ivan Mikolajchuk / 尤里·纳扎罗夫 / 列夫·波利亚科夫 / Roman Tkachuk / 亚历山大·库兹涅佐夫 / Georgi Tusuzov / 瓦西里·舒克申",
         "year": 1970,
-        "misc": "苏联 / 波兰 / 南斯拉夫 / 东德 / 意大利 / 剧情 / 爱情 / 战争"
-    },
-    {
-        "name": "生命的重托",
-        "rating": 8.1,
-        "rank": 588,
-        "comment": "1981",
-        "crew": "托马斯·布罗迪-桑斯特 / 焦万娜·梅佐焦尔诺 / 史蒂芬·莫耶 / 克劳斯·马利亚·布朗道尔 / 肯·杜肯 / 吕菲斯 / Thomas Tipton / 卡尔·E·兰德尔 / Dagmar Schwarz / 多米尼克·皮侬 / Joseph Frost / 托马斯·海因茨 / 克莱尔·凯姆 / 乔治·帕索蒂 / 蒂埃里·莱尔米特 / 高夫莱德·约翰 / 玛莎 莱奥妮 巴赫",
-        "year": 2003,
-        "misc": "英国 / 法国 / 剧情 / 历史 / 战争 / 惊悚"
-    },
-    {
-        "name": "平安夜",
-        "rating": 8.5,
-        "rank": 591,
-        "comment": "1687",
-        "crew": "琳达·汉密尔顿 / 马修·哈伯 / 罗曼诺·欧萨里",
-        "year": 2002,
-        "misc": "加拿大 / 剧情 / 历史 / 战争 / 家庭"
-    },
-    {
-        "name": "青青校树",
-        "rating": 8.2,
-        "rank": 581,
-        "comment": "1927",
-        "crew": "兹旦内克·斯维拉克 / 利布谢·沙弗兰科娃 / 鲁道夫·霍辛斯基 / 翁德雷·维特希 / 丹妮拉·科拉洛娃 / 伊娃·赫鲁波娃 / 鲁道夫·霍辛斯基 / 波莱克·波利夫卡 / 扬·特日斯卡 / 伊雷娜·帕夫拉斯科娃 / 彼得·采佩克 / 兹登涅克·穆查 / 奥尔德日赫·弗拉赫 / Václav Jakoubek / Miroslava Plestilová / 伊日·门泽尔 / 卡尔·卡切纳 / Karla Chadimová",
-        "year": 1991,
-        "misc": "捷克斯洛伐克 / 喜剧 / 剧情 / 战争"
-    },
-    {
-        "name": "夜之钻",
-        "rating": 8.1,
-        "rank": 582,
-        "comment": "2002",
-        "crew": "Antonín Kumbera / 拉季斯拉夫·吉斯凯 / Ilse Bischofova / Jan Riha / Ivan Asic / August Bischof / Josef Koggel / Oscar Müller / Anton Schich / Rudolf Stolle / Josef Koblizek / Josef Kubat / Rudolf Lukásek / Bohumil Moudry / Karel Navratil / Evzen Pichl / Frantisek Procházka / Frantisek Vrana",
-        "year": 1964,
-        "misc": "捷克斯洛伐克 / 剧情 / 战争"
-    },
-    {
-        "name": "解放2：突破",
-        "rating": 8.7,
-        "rank": 587,
-        "comment": "1607",
-        "crew": "尼古拉·奥拉宁 / 拉里莎·戈卢布金娜 / Boris Zajdenberg / 谢尔盖·尼科年科 / 弗谢沃洛德·萨纳耶夫 / 弗拉基米尔·萨莫伊洛夫 / 尤里·卡莫尼 / Valeri Nosik / 米哈伊尔·乌里扬诺夫 / 弗拉德连·达维多夫 / Yevgeni Burenkov / 谢尔盖·哈钦科 / 弗拉季斯拉夫·斯特尔热利奇克 / 德米特里·弗兰科 / Bukhuti Zakariadze / Stanislaw Jaskiewicz / Fritz Diez / 伊沃·加拉尼 / Gerd Michael Henneberg / Siegfried Weiß / 汉约·哈塞 / Peter Sturm / 弗洛林·彼耶尔西克 / 阿尔乔姆·卡拉佩强 / 芭芭拉·布雷尔斯卡 / 达尼尔·奥勒布里斯基 / 韦恩泽斯洛·格林斯基 / Ignacy Machowski / Michal Adamczewski / Viktor Bajkov / Nikolai Bogolyubov / 格奥尔吉·布尔科夫 / 维尔纳·迪塞尔 / 尤里·杜布罗温 / Olev Eskola / 采扎里·尤尔斯基 / 尤里·基列耶夫 / 米哈伊尔·科克申诺夫 / Hans-Hartmut Krüger / Heino Mandri / Yuri Martynov / Peter Marx / Grigory Mikhaylov / Ivan Mikolajchuk / 尤里·纳扎罗夫 / 列夫·波利亚科夫 / Roman Tkachuk / 亚历山大·库兹涅佐夫 / Georgi Tusuzov / 瓦西里·舒克申",
-        "year": 1970,
-        "misc": "苏联 / 波兰 / 南斯拉夫 / 东德 / 意大利 / 剧情 / 爱情 / 战争"
+        "misc": "苏联 / 波兰 / 南斯拉夫 / 东德 / 意大利 / 剧情 / 爱情 / 战争",
+        "downloaded":true
     },
     {
         "name": "生命的重托",
@@ -2822,7 +2638,8 @@
         "rank": 596,
         "comment": "1505",
         "year": 1971,
-        "misc": "苏联 / 历史 / 战争"
+        "misc": "苏联 / 历史 / 战争",
+        "downloaded":true
     },
     {
         "name": "飘舞的军旗下",
@@ -2858,7 +2675,8 @@
         "comment": "1479",
         "crew": "米洛斯·科佩基 / 鲁道夫·耶利内克 / 亚娜·布赖霍娃 / 卡雷尔·赫格 / 爱德华·科胡特 / 扬·韦里希 / 博胡什·扎霍尔斯基 / 鲁道夫·霍辛斯基 / 米罗斯拉夫·霍卢布 / 弗兰蒂泽克·斯列格尔 / 卡雷尔·叶法 / 约瑟夫·赫利诺马兹 / 兹登卡·霍德尔 / Richard Záhorský / 奥托·希曼内克 / Miroslav Homola / Václav Trégl / Nadesda Blazickova / Vítezslav Cerny / 扬·利比切克",
         "year": 1962,
-        "misc": "捷克斯洛伐克 / 喜剧 / 爱情 / 战争 / 科幻 / 动画 / 奇幻 / 冒险"
+        "misc": "捷克斯洛伐克 / 喜剧 / 爱情 / 战争 / 科幻 / 动画 / 奇幻 / 冒险",
+        "downloaded": true
     },
     {
         "name": "树屋上的童真",
@@ -2958,15 +2776,6 @@
         "crew": "奥逊·威尔斯 / 让娜·莫罗 / 玛格丽特·鲁斯福德 / 约翰·吉尔古德 / 玛丽娜·维拉迪 / 沃特·奇亚里 / 迈克尔·奥德里奇 / 胡利奥·培尼亚 / 托尼·贝克利 / 安德烈斯·梅胡托 / 艾伦·韦布 / 费尔南多·雷伊 / 基思·巴克斯特 / 拉尔夫·理查德森 / Fernando Hilbeck / Goyo Lebrero / 路易斯·莫里斯 / 英格丽德·皮特 / Norman Rodway / 贝翠斯·威尔斯 / Juan Estelrich / 查尔斯·法雷尔 / 安德鲁·福尔兹 / José Nieto / 帕特里克·贝德福德 / 路易斯·西赫斯",
         "year": 1965,
         "misc": "西班牙 / 瑞士 / 法国 / 喜剧 / 剧情 / 战争"
-    },
-    {
-        "name": "抗暴英雄",
-        "rating": 8.1,
-        "rank": 702,
-        "comment": "1312",
-        "crew": "阿米尔·汗 / 凯伦·凯尔 / 托比·斯蒂芬斯 / 穆克什·迪瓦里 / 阿敏·哈吉 / 莫娜·安伯加卡尔 / 拉妮·玛克赫吉 / 阿尔伯特·威灵 / Mick Ward / 欧姆·普瑞 / 拉姆·戈帕尔·巴贾杰 / Camila Bordonaba / 杰瑞米·克莱德 / 肯内斯·库兰汉姆 / Ben Nealon / 阿米莎·帕泰拉 / Habib Tanvir / 舒普洛特·道特",
-        "year": 2005,
-        "misc": "印度 / 传记 / 剧情 / 历史 / 战争"
     },
     {
         "name": "抗暴英雄",
@@ -3237,15 +3046,6 @@
         "crew": "理查德·波林热 / 罗歇·米尔蒙 / 伊莎贝尔·萨多扬 / 玛丽·佩里 / 朱利安·于贝尔 / 让-弗朗索瓦·德雷克 / Jo Doumerg / 拉乌尔·比勒 / 朱迪斯·亨利 / 布鲁诺·穆瓦诺 / 马丁·拉莫特 / 安托万·于贝尔",
         "year": 1991,
         "misc": "法国 / 西德 / 喜剧 / 剧情 / 战争"
-    },
-    {
-        "name": "维也纳快车",
-        "rating": 8.3,
-        "rank": 938,
-        "comment": "591",
-        "crew": "亚罗米尔·汉兹利克 / 卢德克·蒙扎尔 / 伊娃·简祖罗娃 / 伊沃·尼德勒",
-        "year": 1966,
-        "misc": "捷克斯洛伐克 / 剧情 / 战争"
     },
     {
         "name": "维也纳快车",

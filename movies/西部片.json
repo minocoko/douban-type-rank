@@ -15,7 +15,8 @@
         "comment": "63775",
         "crew": "查理·卓别林 / 马克·斯旺 / 汤姆·默里 / 亨利·伯格曼 / Malcolm Waite / 乔治亚·黑尔 / Jack Adams / Sam Allen / Harry Arras / 艾伯特·奥斯汀 / Marta Belfort / George Brock / 海尼·康克林 / 凯·德利斯 / James Dime / Leon Farey / Charles Force / J.C. Fowler / 阿尔·欧内斯特·加西亚 / Inez Gomez / 希德·格鲁曼 / 丽塔·格雷 / 雷·格雷 / F.F. Guenste / Jack Herrick / George Holt / Jean Huntley / Gladys Johnston / Fred Karno Jr. / Elias Lazaroff / Joan Lowell / Chris-Pin Martin / Clyde McAtee / John Millerta / 贝蒂莫里西 / Florence Murth / 约翰兰德 / 蒂尼·桑福德 / Frank Stockdale / Frank Rice / Lillian Rosine / C.F. Roark / Armand Triller / John Wallace / Tom Wood / Ed Wilson / Bess Wade",
         "year": 1925,
-        "misc": "美国 / 喜剧 / 爱情 / 西部 / 冒险"
+        "misc": "美国 / 喜剧 / 爱情 / 西部 / 冒险",
+        "downloaded": true
     },
     {
         "name": "让子弹飞",
@@ -102,7 +103,8 @@
         "comment": "107238",
         "crew": "迈克尔·J·福克斯 / 克里斯托弗·洛伊德 / 玛丽·斯汀伯根 / 托马斯·F·威尔森 / 莉·汤普森 / 伊丽莎白·苏 / 马特·克拉克 / 理查德·戴萨特 / Pat Buttram / 小哈里·凯瑞 / 德博泰勒 / 詹姆斯·托根 / 马克·麦克卢尔 / 温迪·乔·斯佩博 / 杰弗里·韦斯曼 / Hugh Gillin / 弗利 / 瑞奇·迪恩·洛根 / 迪恩·康迪 / 多诺万·斯科特 / Freddie  / Mike Watson / Michael Klastorin / 弗兰克·比拉德 / Tim Konrad / 比尔·麦金尼 / 伯顿·吉列姆 / Dorothy Hack / 达斯蒂·希尔 / 迈克尔·米尔斯 / 比利·吉布斯 / J·J·科恩 / 肯尼·迈尔斯 / Todd Cameron Brown",
         "year": 1990,
-        "misc": "美国 / 喜剧 / 科幻 / 西部 / 冒险"
+        "misc": "美国 / 喜剧 / 科幻 / 西部 / 冒险",
+        "downloaded": true
     },
     {
         "name": "巴斯特·斯克鲁格斯的歌谣",
@@ -276,25 +278,8 @@
         "comment": "8662",
         "crew": "亚历桑德罗·佐杜洛夫斯基 / 布朗提思·佐杜洛夫斯基 / José Legarreta / 阿方索·阿雷奥 / 何塞·路易斯·费尔南德斯 / Ali Junco / 杰拉尔多·塞佩达 / René Barrera / René Alís / Federico Gonzáles / Vicente Lara / Pablo Leder / Giuliano Girini Sasseroli / Cristian Merkel / Aldo Grumelli / Mara Lorenzio / David Silva / Ignacio Martínez España / Eliseo Gardea Saucedo / Héctor Martínez / Paula Romo / 伯莎·洛梅利",
         "year": 1971,
-        "misc": "墨西哥 / 冒险 / 奇幻 / 西部"
-    },
-    {
-        "name": "离魂异客",
-        "rating": 8,
-        "rank": 29,
-        "comment": "24293",
-        "crew": "约翰尼·德普 / 加利·法梅尔 / 克里斯平·格洛弗 / 兰斯·亨利克森 / 迈克尔·维克特 / 尤金·伯德 / 约翰·赫特 / 罗伯特·米彻姆 / 伊基·波普 / 加布里埃尔·伯恩 / 杰瑞德·哈里斯 / 米莉·阿威塔尔 / 吉米·雷·威克斯 / 马克·布林格尔森 / 彼得·舒鲁姆 / 比利·鲍伯·松顿 / 米歇尔·史拉斯 / 理查德·伯斯 / 阿尔弗雷德·莫里纳 / 迈克尔·麦克卡蒂 / 史蒂夫·布西密",
-        "year": 1995,
-        "misc": "美国 / 德国 / 日本 / 剧情 / 西部 / 奇幻 / 冒险"
-    },
-    {
-        "name": "鼹鼠",
-        "rating": 8.2,
-        "rank": 30,
-        "comment": "8662",
-        "crew": "亚历桑德罗·佐杜洛夫斯基 / 布朗提思·佐杜洛夫斯基 / José Legarreta / 阿方索·阿雷奥 / 何塞·路易斯·费尔南德斯 / Ali Junco / 杰拉尔多·塞佩达 / René Barrera / René Alís / Federico Gonzáles / Vicente Lara / Pablo Leder / Giuliano Girini Sasseroli / Cristian Merkel / Aldo Grumelli / Mara Lorenzio / David Silva / Ignacio Martínez España / Eliseo Gardea Saucedo / Héctor Martínez / Paula Romo / 伯莎·洛梅利",
-        "year": 1971,
-        "misc": "墨西哥 / 冒险 / 奇幻 / 西部"
+        "misc": "墨西哥 / 冒险 / 奇幻 / 西部",
+        "downloaded": true
     },
     {
         "name": "爱在春天来临",
@@ -344,24 +329,6 @@
         "year": 1956,
         "misc": "美国 / 剧情 / 爱情 / 西部",
         "downloaded": true
-    },
-    {
-        "name": "巨人传",
-        "rating": 8,
-        "rank": 57,
-        "comment": "3485",
-        "crew": "罗克·赫德森 / 伊丽莎白·泰勒 / 詹姆斯·迪恩 / 杰克·洛马斯 / 蒂娜·梅纳德 / Judy Lent / 罗伯特·尼克尔斯 / 哈罗德·米勒 / 汤姆·梦露 / Maxine Gates / 肯纳G.肯普 / Maurice Jara / Paul Kruger / 查尔斯梅瑞狄斯 / Jill Lent / 维克托·米兰 / Kermit Maynard / 亚历山大·斯库比 / 罗德·泰勒 / 杰弗里·塞尔 / Napoleon Whiting / John Wiley / 丹·怀特 / 谢布·伍利 / Rush Williams / 简·维特尔斯 / Guy Teague / 伯特史蒂文斯 / Natividad Vacío / Mickey Simpson / Max Terhune / Slim Talbot / Felipe Turich / Julian Rivero / 弗兰·本内特 / 山姆·哈里斯 / Marc Hamilton / 卡罗尔·贝克 / 保罗·菲克斯 / 厄尔·霍利曼 / 丹尼斯·霍珀 / 查尔斯瓦茨 / 雷·惠特利 / 梅赛德丝·麦坎布雷奇 / 蒙特·黑尔 / 芭芭拉·蓓丽 / 萨尔·米涅奥 / 齐尔·威尔斯 / 尼克·亚当斯 / Elsa Aguirre / 埃迪·贝克 / Ray Bennett / 斯图尔特·霍姆斯 / Ethel Greenwood / Pilar Del Rey / 朱迪思·伊夫林 / 乔治·邓恩 / Dana Dillaway / Tex Driscoll / Ella Ethridge / Juney Ellis / Pete Dunn / 埃尔莎·卡德纳斯 / Georgann Cashen / Carolyn Craig / Mary Ann Cashen / Fran Bennett / 诺琳·纳什",
-        "year": 1956,
-        "misc": "美国 / 剧情 / 爱情 / 西部"
-    },
-    {
-        "name": "爱是永恒承诺",
-        "rating": 8,
-        "rank": 86,
-        "comment": "1716",
-        "crew": "凯瑟琳·海格尔 / 詹纽瑞·琼斯 / 罗根·巴塞洛缪 / 塔拉·林内·巴尔 / 克苏恩·洛德尔 / 丹妮尔·麦基 / Michael Bartel / Joshua Michael Kwiat / 克利夫·德杨 / Lance Lanfear / 罗伯特·F·莱昂斯 / 多米尼克·斯科特·凯伊 / 戴尔·米德基夫 / 麦肯齐·阿斯丁 / 卡拉·德利兹亚 / Douglas Fisher / 加里·西弗斯",
-        "year": 2004,
-        "misc": "美国 / 剧情 / 西部 / 家庭"
     },
     {
         "name": "爱是永恒承诺",
@@ -497,15 +464,6 @@
         "crew": "沃伦·奥茨 / 丽莎·帕里坎 / 李·麦瑞威瑟 / 拉蒙·比厄里 / James Stephens / Jeff Osterhage / 李·蒙哥马利 / 杰克·弗莱彻 / 帕利·贝尔 / 雷德蒙德·格里森",
         "year": 1978,
         "misc": "美国 / 剧情 / 西部"
-    },
-    {
-        "name": "牧野游龙",
-        "rating": 8,
-        "rank": 197,
-        "comment": "408",
-        "crew": "苏珊·海沃德 / 罗伯特·米彻姆 / 阿瑟·肯尼迪 / 阿瑟·亨尼卡特 / 弗兰克·费伦 / 沃尔特·科伊 / 卡萝尔·纽金特 / Maria Hart / 洛娜·塞耶 / 布特·穆斯汀 / Karen Randle / Jimmie Dodd / Eleanor Todd / Emile Avery / Barbara Blaine / Hazel Boyne / 罗伯特布雷 / Ralph Bucko / Roy Bucko / Bob Burrows / 丹·怀特 / Ralph Volkie / 谢布·伍利 / Chili Williams / Sally Yarnell / 格伦·斯特兰奇 / Mary Jane Carey / 莱恩·钱德勒 / Dennis Moore / 萨姆·弗林特 / 罗伊·格伦 / Rocky Shahan / George Sherwood / Marshall Reed / 查克·罗伯森 / 约翰·米彻姆 / 迈克·拉里",
-        "year": 1952,
-        "misc": "美国 / 剧情 / 动作 / 西部 / 运动"
     },
     {
         "name": "牧野游龙",
