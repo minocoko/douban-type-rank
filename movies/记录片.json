@@ -87,7 +87,7 @@
         "crew": "坂本龙一",
         "year": 2024,
         "misc": "日本 / 纪录片 / 音乐",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "地球之盐",
@@ -97,7 +97,7 @@
         "crew": "塞巴斯蒂昂·萨尔加多 / 维姆·文德斯 / 朱利安·诺里贝罗·萨尔加多",
         "year": 2014,
         "misc": "法国 / 意大利 / 巴西 / 传记 / 纪录片",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "算命",
@@ -720,7 +720,7 @@
         "crew": "夏尔·贝尔林 / 罗曼娜·波琳热 / 儒勒·斯楚克 / 何炅 / 神木隆之介 / Fiorello / 马雷克·孔德拉特 / 苏菲·格拉宝 / 约斯塔·埃克曼 / 阿米达普·巴强 / 大泽隆夫 / 石田光",
         "year": 2005,
         "misc": "法国 / 纪录片",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "再见，我的新郎",
@@ -957,7 +957,7 @@
         "crew": "大卫·爱登堡",
         "year": 2020,
         "misc": "英国 / 传记 / 纪录片",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "可爱的动物",
@@ -10566,7 +10566,7 @@
         "crew": "阿兰·莱特曼",
         "year": 2022,
         "misc": "美国 / 纪录片",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "深空",

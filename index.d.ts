@@ -6,4 +6,5 @@ export type Movie = {
     crew: string;
     year: number;
     misc: string;
+    downloaded?: boolean;
 }

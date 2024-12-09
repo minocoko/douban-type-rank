@@ -1080,7 +1080,8 @@
         "comment": "200849",
         "crew": "佩吉·奥哈拉 / 罗比·本森 / 理查德·怀特 / 杰里·奥尔巴赫 / 戴维·奥格登·施蒂尔斯 / 安吉拉·兰斯伯瑞 / 布莱德利·皮尔斯 / 雷克斯·埃弗哈特 / 杰西·科尔蒂 / 哈尔·史密斯 / 乔·安妮·沃利 / 玛丽·凯·伯格曼 / 布瑞恩·卡明斯 / 阿尔文·爱泼斯坦 / 托尼·杰 / 亚历克·墨菲 / 金米·罗伯特森 / 凯斯·索西 / 弗兰克·维尔克 / 乔纳森·尼科尔斯 / 杰克·安杰尔 / 胡立成 / 雪莉·琳恩 / 比尔·法玛尔 / Poul Bundgaard / Maureen Brennan / Kirsten Cenius / 利兹·卡洛薇 / 米凯尔·比克耶 / 万娜·邦塔 / Bruce Adler / 詹妮弗·达林 / Louise Fribo / Gordon Stanley / 菲尔·普洛克特 / 普雷本·克里斯滕森 / 杰斯·英格斯勒夫 / Larry Hansen / John Hahn-Petersen / Randy Hansen / 乔治·德沃尔斯基",
         "year": 1991,
-        "misc": "美国 / 喜剧 / 爱情 / 动画 / 歌舞 / 奇幻"
+        "misc": "美国 / 喜剧 / 爱情 / 动画 / 歌舞 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "自梳",
@@ -1099,7 +1100,8 @@
         "comment": "64075",
         "crew": "克拉克·盖博 / 克劳黛·考尔白 / 沃尔特·康诺利 / 罗斯科·卡恩茨 / 詹姆森·托马斯 / 艾伦·海尔 / 亚瑟·霍伊特 / 布朗什·弗雷德里克 / 查尔斯·C·威尔逊 / 克莱尔·麦克道尔 / 艾玛·坦西 / 多洛雷斯·富勒 / Mickey Daniels / 沃德·邦德 / 威廉·贝格",
         "year": 1934,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "蓝宇",
@@ -1158,7 +1160,8 @@
         "comment": "60957",
         "crew": "米娅·法罗 / 杰夫·丹尼尔斯 / 丹尼·爱罗 / 欧文·梅茨曼 / Victoria Zussin / Wade Barnes / Elaine Grollman / Stephanie Farrow / Maurice Brenner / 保罗·赫尔曼 / Rick Petrucelli / Peter Castellotti / Milton Seaman / 米密·威德尔 / Tom Degidon / 爱德华·赫曼 / 约翰·伍德 / 黛伯拉·拉什 / 范·强生 / 佐伊·考德威尔 / Karen Akers / 安妮乔爱德华兹 / 米罗·奥西 / 皮特·麦克罗比 / 卡米利·萨维奥拉 / 朱莉安娜·唐纳德 / 黛安·韦斯特 / George Hamlin / 海伦汉芙特 / 乔治·马丁 / 克丽丝特尔·菲尔德 / 罗伯特·特雷伯 / Jean Shevlin / Edwin Bordo / Tom Kubiak / Alexander H. Cohen / 约翰·罗斯曼 / Raymond Serra / Sydney A. Blake / 迈克尔·塔克 / 彼得冯伯格 / 格伦妮·海德利 / 莱拉·艾维 / Loretta Tupper / Marty Appel / 弗雷德·阿斯泰尔 / Jacqueline Carol / 罗伯特·达赫达赫 / James Prendergast / 金杰·罗杰斯",
         "year": 1985,
-        "misc": "美国 / 喜剧 / 爱情 / 奇幻"
+        "misc": "美国 / 喜剧 / 爱情 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "那年夏天，宁静的海",
@@ -1248,7 +1251,7 @@
         "crew": "杨天翔 / 刘校妤 / 乔诗语 / 魏超 / 阎萌萌 / 张凯 / 范哲琛",
         "year": 2016,
         "misc": "中国大陆 / 剧情 / 喜剧 / 爱情 / 动画",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "爱",
@@ -1317,7 +1320,8 @@
         "comment": "113091",
         "crew": "袁咏仪 / 张国荣 / 刘嘉玲 / 陈小春 / 曾志伟 / 罗家英 / 林晓峰 / 郑丹瑞 / 张之亮 / 张同祖 / 许愿 / 邓汉强 / 李晓彤 / 李浩林 / 皮特·斯普瑞尔",
         "year": 1994,
-        "misc": "中国香港 / 喜剧 / 爱情 / 同性"
+        "misc": "中国香港 / 喜剧 / 爱情 / 同性",
+        "downloaded": true
     },
     {
         "name": "茜茜公主",
@@ -1336,7 +1340,8 @@
         "comment": "195628",
         "crew": "琳赛·洛翰 / 丹尼斯·奎德 / 娜塔莎·理查德森 / 伊莲·亨德里克斯 / 丽萨·安·沃尔特 / 西蒙·坤茨 / 罗尼·斯蒂芬斯 / 玛姬·惠勒 / 娜塔莎·梅尔尼克 / 乔安娜·巴恩斯 / 温德拉·科斯伯姆 / 卡特琳娜·格兰厄姆 / Amy Centner",
         "year": 1998,
-        "misc": "美国 / 儿童 / 喜剧 / 爱情 / 家庭"
+        "misc": "美国 / 儿童 / 喜剧 / 爱情 / 家庭",
+        "downloaded": true
     },
     {
         "name": "秒速5厘米",
@@ -1355,7 +1360,8 @@
         "comment": "112360",
         "crew": "勒内·奥贝尔若努瓦 / 克里斯托弗·丹尼尔·巴恩斯 / 裘蒂·班森 / 南茜·卡特莱特 / 雪莉·琳恩",
         "year": 1989,
-        "misc": "美国 / 爱情 / 动画 / 奇幻 / 歌舞"
+        "misc": "美国 / 爱情 / 动画 / 奇幻 / 歌舞",
+        "downloaded": true
     },
     {
         "name": "我的野蛮女友",
@@ -1532,7 +1538,8 @@
         "comment": "232059",
         "crew": "尼克·罗宾森 / 詹妮弗·加纳 / 乔什·杜哈明 / 小豪尔赫·兰登伯格 / 凯瑟琳·兰福德 / 亚历山德拉·希普 / 洛根·米勒 / 凯南·朗斯代尔 / 特丽莎·贝特曼 / 托尼·海尔 / 娜塔莎·罗斯韦尔 / 迈尔斯·赫尔泽 / 乔伊·保罗瑞 / 克拉克·穆尔 / 德鲁·斯塔基 / 麦肯兹·林茨 / 卡萨迪·麦克林西 / 艾莉克斯·斯甘巴蒂 / 贾米拉·汤普森 / 艾米丽·乔丹 / 帕特里克·多诺霍 / 特雷勒·希尔 / 泰勒·切斯 / 哈龙·汗 / 约书亚·米克尔 / 尼古拉斯·斯塔格尔 / 南茜·德·梅奥 / 克里斯蒂安·奥乔·梅菲尔德 / 钱特尔·D·克里斯托弗 / 曼迪·法森 / 菲利普·科文 / 罗比·罗杰斯 / 乔丹·道 / 科尔顿·海恩斯 / 罗伯·西蒙森 / 胡安·贾斯帕 / 黛西·罗斯·布莱内斯",
         "year": 2018,
-        "misc": "美国 / 喜剧 / 爱情 / 同性"
+        "misc": "美国 / 喜剧 / 爱情 / 同性",
+        "downloaded": true
     },
     {
         "name": "一代宗师",
@@ -1619,7 +1626,8 @@
         "comment": "362313",
         "crew": "周星驰 / 张敏 / 吴孟达 / 张耀扬 / 黄一山 / 秦沛 / 苑琼丹 / 陈国新 / 陈世腾 / 詹小玲 / 谢伟杰 / 郭彼得 / 麦伟章 / 陈文妤 / 尹尚林 / 胡立成 / 黄炳耀 / 黄子扬 / 黎彼得 / 曾近荣 / 雷威远",
         "year": 1991,
-        "misc": "中国香港 / 喜剧 / 动作 / 爱情"
+        "misc": "中国香港 / 喜剧 / 动作 / 爱情",
+        "downloaded": true
     },
     {
         "name": "马戏团",
@@ -1628,7 +1636,8 @@
         "comment": "26205",
         "crew": "查理·卓别林 / 阿尔·欧内斯特·加西亚 / 梅尔纳·肯尼迪 / 哈里·克罗克 / 乔治·戴维斯 / 亨利·伯格曼 / 蒂尼·桑福德 / 约翰兰德 / 艾伯特·奥斯汀 / 斯坦利·布莱斯通 / 海尼·康克林 / Toraichi Kono / 贝蒂莫里西 / L.J. O'Connor / 杰克 P. 皮尔斯 / Hugh Saxon / Armand Triller / 吉恩·巴瑞 / 乔治·W·戴维斯",
         "year": 1928,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "苏州河",
@@ -1706,7 +1715,8 @@
         "comment": "147528",
         "crew": "朱丽叶·比诺什 / 威廉·达福 / 娜塔莉·波特曼 / 加斯帕德·尤利尔 / 热拉尔·德帕迪约 / 玛吉·吉伦哈尔 / 伊利亚·伍德 / 欧嘉·柯瑞兰寇 / 亚历山大·佩恩 / 李昕 / 伊里斯·麦康利 / 莱拉·贝蒂 / 塞瑞尔·戴思科斯 / 布鲁诺·波达里德斯 / 史蒂夫·布西密 / 芬妮·阿尔丹 / 奥利弗·施米茨 / 露德温·塞尼耶 / 大卫·休莱特 / 保罗·普特纳 / 莱昂内尔·德雷 / 蕾欧诺·瓦特林 / 梅尔基奥尔·德鲁埃 / 艾米莉·莫迪默 / 友兰达·梦露 / 卢夫斯·塞维尔 / 卡塔琳娜·桑地诺·莫雷诺 / 艾米丽·欧哈娜 / 吉娜·罗兰兹 / 本·戈扎那 / 玛格·马丁戴尔 / 尼诺·柯塔德泽 / 沃尔里德·阿非基尔 / 韦斯·克雷文 / 尼克·诺特",
         "year": 2006,
-        "misc": "法国 / 列支敦士登 / 瑞士 / 德国 / 美国 / 剧情 / 喜剧 / 爱情"
+        "misc": "法国 / 列支敦士登 / 瑞士 / 德国 / 美国 / 剧情 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "起风了",
@@ -1905,7 +1915,8 @@
         "comment": "106019",
         "crew": "张国荣 / 袁咏仪 / 钟镇涛 / 赵文卓 / 罗家英 / 熊欣欣 / 樊亦敏 / 倪淑君 / 黄百鸣 / 王章宝 / 刘冬青 / 陈庆航 / 车剑晖 / 蔡国强 / 麦树燊 / 欧志明 / 张玉华 / 何锦满 / 徐振华 / 张兆 / 姜小亮 / 唐佳 / 林志泰 / 刘洵 / 邵传勇 / 黎彼得 / 黄一飞 / 鲍德熹 / 何家驹 / 张同祖 / 李道谕 / 林富伟 / 邓祥 / 黄金棠 / 司徒慧焯 / 卢雄 / 谢君豪",
         "year": 1995,
-        "misc": "中国香港 / 喜剧 / 爱情"
+        "misc": "中国香港 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "精疲力尽",
@@ -2062,7 +2073,8 @@
         "comment": "145841",
         "crew": "杨千嬅 / 吴彦祖 / 许绍雄 / 黄浩然 / 森美 / 周骢 / 邹凯光 / 李兆基 / 麦兆辉 / 邱琦雯 / 叶伟信 / 黄伟文 / 吴志雄 / 袁富华 / 火火 / 李耀明 / 蔡洁雯 / 茜利妹 / 查小欣 / 黄泆潼 / 易冰如 / 黎志伟 / 周家声 / 黄燕强 / 曾健勇",
         "year": 2002,
-        "misc": "中国香港 / 喜剧 / 爱情"
+        "misc": "中国香港 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "偶然与想象",
@@ -2181,7 +2193,8 @@
         "comment": "400071",
         "crew": "周星驰 / 刘嘉玲 / 李若彤 / 罗家英 / 张达明 / 刘以达 / 李力持 / 江欣燕 / 苑琼丹 / 朱咪咪 / 李健仁 / 袁祥仁 / 袁信义 / 植敬雯 / 潘恒生 / 谷德昭 / 文隽 / 黄老邪 / 黄一飞 / 查尔斯·沈 / 吴育枢 / 王均康 / 陈剑云 / 欧锦棠 / 叶伟信 / 黄志强 / 英德拉·利奇 / 王英杰 / 蔡国强 / 谭镇渡 / 夏国荣 / 张玉华 / 陈少华 / 黄智强",
         "year": 1996,
-        "misc": "中国香港 / 喜剧 / 动作 / 爱情 / 古装"
+        "misc": "中国香港 / 喜剧 / 动作 / 爱情 / 古装",
+        "downloaded": true
     },
     {
         "name": "赛末点",
@@ -2220,7 +2233,8 @@
         "comment": "309629",
         "crew": "刘德华 / 周星驰 / 关之琳 / 邱淑贞 / 吴孟达 / 李子雄 / 王晶 / 成奎安 / 程东 / 陈百祥 / 曹查理 / 林迪安 / 余慕莲 / 鲁芬 / 陈曼娜 / 颜丽如 / 鲍汉琳 / 胡立成 / 伍国健 / 江道海 / 林富伟 / 吴育枢 / 林华勋 / 邓泰和 / 周树基 / 苏伟南 / 张兆 / 潘健君 / 龙彪 / 甄健伟 / 黄伟方",
         "year": 1991,
-        "misc": "中国香港 / 喜剧 / 爱情"
+        "misc": "中国香港 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "小妇人",
@@ -2298,7 +2312,8 @@
         "comment": "387675",
         "crew": "朱莉娅·罗伯茨 / 休·格兰特 / 理查德·麦凯布 / 瑞斯·伊凡斯 / 詹姆斯·德雷福斯 / 迪兰·莫兰 / 亨利·古德曼 / 朱利安·林希德-图特 / 罗蕾莱·金 / 约翰·斯拉普内尔 / 克拉克·彼得斯 / 尤兰达·瓦兹奎兹 / 米莎·巴顿 / 蒂姆·麦克纳尼 / 吉娜·麦基 / 艾玛·钱伯斯 / 休·博纳维尔 / 多里斯·洛夫 / 桑吉夫·巴哈斯卡 / 保罗·查希迪 / 艾米莉·莫迪默 / 萨缪尔·韦斯特 / 帕特里克·巴罗 / 安迪·德拉图尔 / 鲁伯特·普格特 / 安·比奇 / 莎莉·菲利普斯 / 亚历克·鲍德温 / 伊恩·博霍 / 西蒙·卡洛 / 乔·考尼什 / 肖恩·克罗宁 / 欧米德·吉亚李利 / 迈克尔·希格斯 / 若昂·科斯塔·梅内塞斯 / 马修·莫迪恩 / 童自荣 / 户田惠子 / 沈晓谦 / 阿图罗·韦尼加斯 / 安东尼·玛达莱娜",
         "year": 1999,
-        "misc": "英国 / 美国 / 喜剧 / 爱情"
+        "misc": "英国 / 美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "爱德华大夫",
@@ -2336,7 +2351,8 @@
         "comment": "151331",
         "crew": "克洛德·布拉瑟 / 布丽吉特·佛西 / 苏菲·玛索 / 丹尼丝·格雷 / 多米尼克·拉冯纳特 / 贝纳·纪欧多 / Jacques Ardouin / 理查德·波林热 / 让-克洛德·布约 / 米舍利娜·布尔戴 / 让-皮埃尔·卡斯塔尔迪 / 罗贝尔·达尔邦 / 罗贝尔·勒贝亚尔 / Sylvain Levignac / 玛丽-洛朗斯 / Frédéric de Pasquale / 希拉·奥康纳 / 阿里尔·塞梅诺夫 / 亚莉珊德拉·葛南 / 珍妮苏雄 / 亚历山大·斯特林 / Léon Zitrone / 阿兰·贝格尔 / 安妮·高蒂尔 / 瓦拉狄米·科斯马 / Jacques-Olivier Holzer / 伊琳娜·万卡",
         "year": 1980,
-        "misc": "法国 / 喜剧 / 爱情"
+        "misc": "法国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "成为约翰·马尔科维奇",
@@ -2485,7 +2501,8 @@
         "comment": "109374",
         "crew": "安东尼奥·班德拉斯 / 萨尔玛·海耶克 / 哈维·吉兰 / 弗洛伦丝·皮尤 / 约翰·木兰尼 / 瓦格纳·马拉 / 雷·温斯顿 / 萨姆森·卡约 / 奥利维娅·科尔曼 / 达明·乔伊·伦道夫 / 安东尼·门德斯 / 科迪·卡梅伦 / 乔尔·克劳福德 / 娜塔莉亚·克朗博尔德 / 保罗·费舍尔 / 贾努埃尔·梅尔卡多 / 亚提米丝·帕博达尼 / 詹姆斯·雷恩 / 贝琪·索达罗 / 康拉德·弗农 / 凯莉·艾莉莎·弗拉纳根 / 克里斯·米勒",
         "year": 2022,
-        "misc": "美国 / 喜剧 / 爱情 / 动画 / 悬疑 / 奇幻 / 冒险 / 歌舞"
+        "misc": "美国 / 喜剧 / 爱情 / 动画 / 悬疑 / 奇幻 / 冒险 / 歌舞",
+        "downloaded": true
     },
     {
         "name": "毕业生",
@@ -2534,7 +2551,8 @@
         "comment": "39203",
         "crew": "艾曼纽·肖莱 / 索菲雷诺瓦 / 安妮-劳蕾 默里 / 艾瑞克维耶拉尔 / 法郎考斯艾瑞克金德伦",
         "year": 1987,
-        "misc": "法国 / 喜剧 / 爱情"
+        "misc": "法国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "迷恋荷尔蒙",
@@ -2592,7 +2610,8 @@
         "comment": "54892",
         "crew": "格利高里·派克 / 罗纳德·斯夸尔 / 乔伊丝·格伦菲尔 / 简·格里菲思 / A·E·马修斯 / 莫瑞斯·德纳姆 / 雷金纳德·贝克威思 / 布莱恩·奥尔顿 / 约翰·斯莱特 / 威尔伯·埃文斯 / 哈特利·鲍尔 / 乔治·迪瓦恩 / 布莱恩·福布斯 / 谷德伦·尤尔 / 休米韦克菲尔德 / 维尔弗雷德·海德-怀特 / 劳伦斯·奈史密斯 / 休·拉蒂默 / John Penrose / Gordon McLeod / 杰克·麦克诺顿 / 吉布·麦克劳克林 / Roddy Hughes / 珀西·马里蒙特 / 埃利奥特·梅卡姆 / Totti Truman Taylor / Anthony Shaw / 莫娜·沃什伯恩 / Frank Tickle / Toke Townley / 欧内斯特·塞西杰 / Una Venning / Ann Lancaster / 安德鲁·福尔兹 / 范妮·卡比 / John Chandos / 佩吉·安·克利福德 / Richard Caldicot / Gordon Begg / 罗纳德·亚当 / Mae Bacon / 李察沃信 / 休·格里夫斯 / 拉里·丹恩 / 弗雷德·格里菲思 / Molly Hamley-Clifford / Noel Hood / Harold Goodwin / Walter Horsbrugh / May Hallatt / Willoughby Goddard / 琼·希克森 / Christopher Hewett / Felix Felton",
         "year": 1954,
-        "misc": "英国 / 喜剧 / 爱情"
+        "misc": "英国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "钢琴课",
@@ -2611,7 +2630,8 @@
         "comment": "155110",
         "crew": "莉娅·刘易斯 / 丹尼尔·迪默 / 艾丽克西斯·勒梅尔 / 沃尔夫冈·诺沃格拉茨 / 邹兆龙 / 贝琦·安·贝克 / 恩里克·穆西安诺 / 麦金太尔·狄克逊 / 凯瑟琳·科廷 / 亚历克·廷彻 / 邦妮·弗兰纳里 / 泰勒·克罗泽 / 斯潘塞·沃瓦克 / 帕特里克·约翰逊 / 加比·萨默斯 / 亚历山卓·巴格特 / 马克·德巴格 / 乔纳·福尔肯",
         "year": 2020,
-        "misc": "美国 / 喜剧 / 爱情 / 同性"
+        "misc": "美国 / 喜剧 / 爱情 / 同性",
+        "downloaded": true
     },
     {
         "name": "布拉格之恋",
@@ -2650,7 +2670,8 @@
         "comment": "90854",
         "crew": "苏菲·玛索 / 文森特·佩雷斯 / 玛丽娜·德尔泰姆 / 布鲁诺·托德契尼 / 米切林内·普雷斯利 / 蒂埃里·莱尔米特",
         "year": 1993,
-        "misc": "法国 / 喜剧 / 爱情"
+        "misc": "法国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "男与女",
@@ -2689,7 +2710,8 @@
         "comment": "31825",
         "crew": "芭芭拉·卢迪 / 拉里·罗伯茨 / 派姬·李 / 李·米勒 / 比尔·汤普森 / 比尔·巴乌卡门 / 薇娜·费尔顿 / 乔治·吉伏特 / 斯坦·弗雷贝格 / 戴尔·麦肯南 / 艾伦·里德 / 小林桂树",
         "year": 1955,
-        "misc": "美国 / 喜剧 / 爱情 / 动画 / 冒险"
+        "misc": "美国 / 喜剧 / 爱情 / 动画 / 冒险",
+        "downloaded": true
     },
     {
         "name": "睡美人",
@@ -2747,7 +2769,8 @@
         "comment": "33275",
         "crew": "宫泽理惠 / 屈中恒 / 太保 / 戴立忍 / 蔡灿得 / 苏照彬 / 王心凌 / 唐从圣 / 蔡振南 / 邵昕 / 王琄 / 段钧豪 / 程秀瑛 / 陈希圣 / 李立群",
         "year": 2000,
-        "misc": "中国台湾 / 喜剧 / 爱情"
+        "misc": "中国台湾 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "每当变幻时",
@@ -2775,7 +2798,8 @@
         "comment": "26047",
         "crew": "林海峰 / 袁咏仪 / 杨采妮 / 黎瑞恩 / 葛民辉 / 陈慧琳 / 陈小春 / 郑中基 / 黄霑 / 徐克 / 张艾嘉 / 刘若英 / 洪金宝 / 苏有朋 / 李立群 / 林原惠美 / 吴奇隆 / 杨凡 / 罗大佑 / 王馨平",
         "year": 1997,
-        "misc": "中国香港 / 喜剧 / 爱情 / 动画 / 奇幻"
+        "misc": "中国香港 / 喜剧 / 爱情 / 动画 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "爱的曝光",
@@ -2823,7 +2847,8 @@
         "comment": "44609",
         "crew": "多莉亚·蒂利耶 / 尼古拉斯·贝多斯 / 德尼·波达利德斯 / 安托万·高尔友利 / 克丽丝蒂娜·米勒特 / 皮埃尔·阿迪提 / 扎布·布雷特曼 / 朱利安·波义塞利尔 / 让-皮耶·罗利特 / 杰克·朗 / 尼古拉斯·布赖恩松 / Betty Reicher / 罗纳德·格特曼 / 朱莉·德拉姆",
         "year": 2017,
-        "misc": "法国 / 比利时 / 喜剧 / 爱情"
+        "misc": "法国 / 比利时 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "不夜城",
@@ -2971,7 +2996,8 @@
         "comment": "29258",
         "crew": "斯尔詹·托多罗维奇 / 布兰卡·卡蒂奇 / 巴伊拉姆·瑟瓦丹 / 弗洛里安·艾登 / 柳比察·阿德若维奇 / 扎比特·梅梅托夫 / 萨布·苏莱曼尼 / 亚萨·德斯塔尼 / 普雷德拉格·拉科维奇 / 米基·马诺伊洛维奇",
         "year": 1998,
-        "misc": "南斯拉夫 / 法国 / 德国 / 奥地利 / 希腊 / 喜剧 / 音乐 / 爱情"
+        "misc": "南斯拉夫 / 法国 / 德国 / 奥地利 / 希腊 / 喜剧 / 音乐 / 爱情",
+        "downloaded": true
     },
     {
         "name": "男孩别哭",
@@ -3148,7 +3174,8 @@
         "comment": "44306",
         "crew": "海伦·米伦 / 唐纳德·萨瑟兰 / 简·默勒尼 / 克里斯蒂·米切尔 / 罗伯特·沃克·布兰乔德 / 克里斯蒂安·麦凯 / 约书亚·胡佛 / 罗伯特·普拉尔戈 / 约书亚·米克尔 / Skyler Elyse Philpot / 丹娜·爱薇 / 迪克·格雷戈里",
         "year": 2018,
-        "misc": "意大利 / 法国 / 喜剧 / 爱情 / 冒险"
+        "misc": "意大利 / 法国 / 喜剧 / 爱情 / 冒险",
+        "downloaded": true
     },
     {
         "name": "情迷意乱",
@@ -3518,7 +3545,7 @@
         "crew": "达米安·萨格 / 希西莉亚·卡拉 / 葛里高利·巴奎特 / Tom Ross",
         "year": 2002,
         "misc": "法国 / 剧情 / 爱情 / 歌舞",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "Jose与虎与鱼们",
@@ -3547,7 +3574,8 @@
         "comment": "24372",
         "crew": "汤姆·汉克斯 / 伊丽莎白·帕金斯 / 罗伯特·劳吉亚 / 约翰·赫德 / 杰瑞德·拉什顿 / 大卫·莫斯科 / 乔恩·拉威茨 / 梅塞迪丝·鲁尔 / 乔什·克拉克 / Oliver Block / 艾伦·沃瑟曼 / Mark Ballou / Gary Howard Klar / 罗基茨·雷德格拉尔 / 杰姆·蒂尼 / 保罗·赫尔曼 / 南希吉尔斯 / 达娜·卡明斯基 / 哈维-米勒 / 特雷西·雷纳 / 詹姆斯·埃克豪斯 / Linda Gillen / Bert Goldstein / 皮特·麦克罗比 / 保罗·J·Q·李 / 黛布拉·乔·拉普 / 基思·雷丁 / 莱拉·艾维 / Vince Cupone / 约翰·罗斯曼 / 贾德·特里克特 / 布鲁斯·雅霍夫 / Paul Basile / Brian J. Cano / 凯文·芬内西 / 弗兰西丝·费舍 / Matt Mindell",
         "year": 1988,
-        "misc": "美国 / 喜剧 / 爱情 / 奇幻"
+        "misc": "美国 / 喜剧 / 爱情 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "都市情缘",
@@ -3605,7 +3633,8 @@
         "comment": "12794",
         "crew": "哈罗德·劳埃德 / 米尔德丽德·戴维斯 / 比尔·斯特罗瑟 / 诺厄·扬 / 韦斯科特·克拉克 / Roy Brooks / Mickey Daniels / Richard Daniels / Ray Erlenborn / William Gillespie / Helen Gilmore / Wallace Howe / 杰姆斯-凯利 / Gus Leonard / Sam Lufkin / 玛丽·莫斯奎尼 / 弗雷德·C·纽迈尔 / 查尔斯·史蒂文森 / Anna Townsend",
         "year": 1923,
-        "misc": "美国 / 喜剧 / 爱情 / 惊悚"
+        "misc": "美国 / 喜剧 / 爱情 / 惊悚",
+        "downloaded": true
     },
     {
         "name": "谈谈情跳跳舞",
@@ -3733,7 +3762,7 @@
         "crew": "林心如 / 李铭顺 / 张本渝 / 丁也恬 / 阳咏存 / 黄采仪 / 徐华谦 / 洪宜卉 / 张少怀",
         "year": 2012,
         "misc": "中国台湾 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "慕德家一夜",
@@ -3948,7 +3977,8 @@
         "comment": "18660",
         "crew": "克莱拉·贝拉 / 安托万·巴斯勒 / 马蒂亚斯·梅加德 / 马尔科姆康拉思 / 维罗尼卡·约翰森 / 贝内迪克特卢瓦扬 / 米夏埃尔·克拉夫特 / 瑟奇·伦科 / Aurore Rauscher / 裘迪斯茜森",
         "year": 1995,
-        "misc": "法国 / 喜剧 / 爱情"
+        "misc": "法国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "浮云",
@@ -4154,7 +4184,8 @@
         "comment": "13555",
         "crew": "乔什·哈切森 / 查理·雷 / 布莱德利·惠特福德 / 辛西娅·尼克松 / 威利·加森 / 托妮·帕塔诺 / 乔什·帕斯 / 约翰·多塞特 / 塔利亚·巴尔萨姆 / 乔纳·梅耶森 / Michael Chaturantabut / Christopher Wynkoop / 蒂摩西·亚当斯 / 杰丝·威克斯勒 / 保罗·鲍格才 / Sal Darigo / George Riddle / 陈凌 / Connor Hutcherson / 亚历克斯·崔贝克 / 杰奎琳·洛弗尔 / Zoë Raye / Deanna Dys / 多米尼克·凯利 / 奥斯汀·马乔斯 / 伊斯梅尔·彼得·卡西利亚斯三世 / Kevin Watson / Jason Woodruff / Marc Yarrish",
         "year": 2005,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "希望沟壑",
@@ -4173,7 +4204,8 @@
         "comment": "14584",
         "crew": "达斯汀·霍夫曼 / 杰西卡·兰格 / 特瑞·加尔 / 达布尼·柯尔曼 / 查尔斯·德恩 / 比尔·默瑞 / 吉娜·戴维斯 / 西德尼·波拉克 / 乔治·盖恩斯 / 多丽丝·布莱克 / 艾伦·弗雷 / 彼得·加托 / 林恩·瑟格本 / 罗纳德·施瓦里 / 迪布拉·穆尼 / Bernie Passeltiner / Gene Shalit / 理查德·怀廷 / 帕梅拉·林肯 / Marjorie Lovett / Gavin Reed / 山姆·斯通伯纳 / 格雷格·戈尔曼 / Joyce Worsley / 安迪·沃霍尔 / Susan Merson / 汤姆·马迪罗沙 / 约翰·卡普洛斯 / 托尼·德文 / 菲力浦·博萨斯 / 玛格·海根柏格 / 莫瑞·西斯盖 / 托宾·贝尔 / 艾斯黛拉·格蒂 / 吉姆·简森 / Paul E. Guskin / Mary Donnet / Cassandra Danz / Lois De Banzie / James Carruthers / 克斯汀·埃伯索尔",
         "year": 1982,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "真实罗曼史",
@@ -4232,7 +4264,7 @@
         "crew": "马晓晴 / 王全安 / 贾宏声 / 金铁峰 / 李连义 / 江珊 / 翟春华 / 杨子纯 / 王德力 / 钱雁秋 / 陈志坚 / 张帆 / 陶红",
         "year": 1990,
         "misc": "中国大陆 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "小说",
@@ -4242,7 +4274,7 @@
         "crew": "王志文 / 王彤 / 阿城 / 林白 / 陈村 / 徐星 / 赵玫 / 方方 / 丁天 / 王朔 / 马原 / 棉棉 / 余华",
         "year": 2007,
         "misc": "中国大陆 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "汉娜姐妹",
@@ -4399,7 +4431,8 @@
         "comment": "9253",
         "crew": "近藤隆 / 小西克幸 / 立花慎之介 / 中村悠一 / 冈本信彦 / 前野智昭 / 堀内贤雄 / 古谷彻",
         "year": 2020,
-        "misc": "日本 / 喜剧 / 爱情 / 动画 / 同性"
+        "misc": "日本 / 喜剧 / 爱情 / 动画 / 同性",
+        "downloaded": true
     },
     {
         "name": "痴男怨女",
@@ -4428,7 +4461,8 @@
         "comment": "11694",
         "crew": "奥黛丽·赫本 / 彼得·奥图尔 / 伊莱·瓦拉赫 / 休·格里夫斯 / 查尔斯·博耶",
         "year": 1966,
-        "misc": "美国 / 喜剧 / 犯罪 / 爱情"
+        "misc": "美国 / 喜剧 / 犯罪 / 爱情",
+        "downloaded": true
     },
     {
         "name": "满城风雨",
@@ -4517,7 +4551,8 @@
         "comment": "8633",
         "crew": "中井贵一 / 山本耕史 / 柏原崇 / 稻森泉 / 奥菜惠 / 冈元夕纪子 / 武田真治 / 森田一义 / 矢田亚希子 / 铃木一真 / 石桥莲司 / 相岛一之 / 谷津勋 / 正名仆蔵 / 浅野和之 / 小西真奈美 / 甲本雅裕 / 茅岛成美 / 大杉涟 / 八岛智人 / 户田惠子 / 胜地凉",
         "year": 2000,
-        "misc": "日本 / 喜剧 / 奇幻 / 恐怖 / 爱情"
+        "misc": "日本 / 喜剧 / 奇幻 / 恐怖 / 爱情",
+        "downloaded": false
     },
     {
         "name": "简单西蒙",
@@ -4556,7 +4591,8 @@
         "comment": "8889",
         "crew": "戴安·琳恩 / 劳伦斯·奥利弗 / 特罗尼亚斯·伯纳德",
         "year": 1979,
-        "misc": "法国 / 美国 / 喜剧 / 爱情"
+        "misc": "法国 / 美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "木头美人",
@@ -4565,7 +4601,8 @@
         "comment": "9863",
         "crew": "克里斯蒂·斯旺森 / 威廉·罗格斯戴尔 / 米萨克·泰勒 / 特利·奇瑟 / 斯图尔特·潘金 / Cynthia Harris / Andrew Hill Newman / John Casino / 詹姆斯·里德 / Christine Anne Baur / 阿勒隆·鲁杰罗 / 温迪·沃辛顿 / 罗伯特·海因斯 / 迈克尔·J·安德森 / Celeste Russi / Joe Milazzo / Bud Seese / Ereina Valencia / 库尔特·莱特纳 / Sonny Vellozzi",
         "year": 1991,
-        "misc": "美国 / 喜剧 / 爱情 / 奇幻"
+        "misc": "美国 / 喜剧 / 爱情 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "南方",
@@ -4584,7 +4621,8 @@
         "comment": "6963",
         "crew": "巴斯特·基顿 / 娜塔莉·塔尔梅奇 / 乔·罗伯茨 / Ralph Bushman / 乔·基顿 / Kitty Bradbury / 小巴斯特·基顿 / Edward Coxen / 杰克·杜非 / 汤姆·朗顿 / 蒙特·柯林斯",
         "year": 1923,
-        "misc": "美国 / 喜剧 / 爱情 / 惊悚"
+        "misc": "美国 / 喜剧 / 爱情 / 惊悚",
+        "downloaded": true
     },
     {
         "name": "周末夜狂热",
@@ -4624,7 +4662,7 @@
         "crew": "袁咏仪 / 方中信 / 吴镇宇 / 刘松仁 / 林燕明 / 黄文意 / 曾宝仪 / 黄佩霞 / 熊欣欣",
         "year": 1998,
         "misc": "中国香港 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "波希米亚生活",
@@ -4683,7 +4721,8 @@
         "comment": "8968",
         "crew": "黛安·基顿 / 伍迪·艾伦 / 杰里·莱西 / 特德·马克兰德 / 迈克尔·格林 / 苏珊娜·泽诺 / 维娃 / 乔伊·邦 / 詹妮弗·绍特 / 苏珊·安斯波 / 托尼·罗伯茨",
         "year": 1972,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "铁达尼号沉没记",
@@ -4752,7 +4791,8 @@
         "comment": "7138",
         "crew": "图罗·帕亚拉 / 苏珊娜·哈维斯托 / 马蒂·佩龙帕 / Erkki Pajala / Matti Jaaranen / Jorma Markkula / Tarja Keinänen / 埃斯科·尼卡里 / 玛贾·佩卡兰 / Tomi Salmela / Veikko Uusimäki / 艾斯可·萨尔米宁 / Pentti Auer / 萨卡里·库斯曼嫩 / Timo Markko / Jaakko Talaskivi / Timo Toikka",
         "year": 1988,
-        "misc": "芬兰 / 喜剧 / 爱情 / 犯罪"
+        "misc": "芬兰 / 喜剧 / 爱情 / 犯罪",
+        "downloaded": true
     },
     {
         "name": "影迷",
@@ -4771,7 +4811,8 @@
         "comment": "5437",
         "crew": "比利·维斯特 / 凯特蕾·萨加尔 / 约翰·迪·马吉欧 / 特蕾丝·麦克尼尔 / 莫里斯·拉马奇 / 菲尔·拉马 / 劳伦·汤姆 / 大卫·赫尔曼 / 达恩·刘易斯 / 凯斯·索西 / 弗兰克·维尔克 / 库里奥 / 阿尔·戈尔 / 马克·哈米尔 / 汤姆·肯尼 / 萨拉·西尔弗曼 / 催眠蛤蟆",
         "year": 2007,
-        "misc": "美国 / 喜剧 / 爱情 / 动画"
+        "misc": "美国 / 喜剧 / 爱情 / 动画",
+        "downloaded": true
     },
     {
         "name": "冯齐的忏悔",
@@ -4860,7 +4901,8 @@
         "comment": "6475",
         "crew": "米利亚姆·霍普金斯 / 凯·弗朗西斯 / 赫伯特·马歇尔 / 查尔斯·拉格尔斯 / 爱德华·艾沃瑞特·霍顿 / C.奥布雷·史密斯 / Robert Greig / Perry Ivins / 列昂尼德·金斯基 / Gus Leonard / 卡尔·M·莱维尼斯 / 弗雷德·马拉泰斯塔 / Eva McKenzie / 内拉·沃克",
         "year": 1932,
-        "misc": "美国 / 喜剧 / 犯罪 / 爱情"
+        "misc": "美国 / 喜剧 / 犯罪 / 爱情",
+        "downloaded": true
     },
     {
         "name": "船长二世",
@@ -4909,7 +4951,8 @@
         "comment": "3187",
         "crew": "陈思思 / 向群 / 文逸民 / 龚秋霞 / 梁衡 / 裘萍 / 林源 / 林燕 / 孙芷君 / 苏秦 / 朱立 / 白荻 / 金沙 / 王季平",
         "year": 1964,
-        "misc": "中国香港 / 喜剧 / 爱情 / 古装 / 音乐"
+        "misc": "中国香港 / 喜剧 / 爱情 / 古装 / 音乐",
+        "downloaded": true
     },
     {
         "name": "梦想者四夜",
@@ -4949,7 +4992,7 @@
         "crew": "王正方 / 许素莹 / 黄家驹 / 叶世荣 / 钱鸣章 / 单慧珠",
         "year": 1983,
         "misc": "中国香港 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "战火中的伊甸园",
@@ -5087,7 +5130,8 @@
         "comment": "6044",
         "crew": "吉滕德拉 / 阿莎·帕雷克 / 阿鲁娜·伊拉尼 / 海伦",
         "year": 1971,
-        "misc": "印度 / 喜剧 / 歌舞 / 爱情"
+        "misc": "印度 / 喜剧 / 歌舞 / 爱情",
+        "downloaded": true
     },
     {
         "name": "在七月",
@@ -5096,7 +5140,8 @@
         "comment": "5990",
         "crew": "莫里兹·布雷多 / 克里斯蒂安娜·保罗 / 穆罕默德·库尔图卢斯 / 波热尔·尤内尔 / Idil Üner / Gábor Salinger / 布兰卡·卡蒂奇 / Torsten Hammann / Monika Dahlberg / 桑德拉·伯格曼 / 法提赫·阿金 / 亚当·布斯多柯斯 / 约亨·尼克尔",
         "year": 2000,
-        "misc": "德国 / 爱情 / 喜剧"
+        "misc": "德国 / 爱情 / 喜剧",
+        "downloaded": true
     },
     {
         "name": "好色一代男",
@@ -5125,7 +5170,8 @@
         "comment": "5923",
         "crew": "铃木砂羽 / 片冈礼子 / 杉本彩 / 盐屋俊 / 萩原流行 / 宫藤官九郎 / 大杉涟 / 武田真治 / 下元史朗 / 阿部隆史 / 袴田吉彦 / 荒木经惟 / 哀川翔 / 铃木弘满 / 田口智朗 / 松尾铃木 / 渡边哲",
         "year": 1994,
-        "misc": "日本 / 剧情 / 喜剧 / 爱情"
+        "misc": "日本 / 剧情 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "语义错误 电影版",
@@ -5440,7 +5486,8 @@
         "comment": "3890",
         "crew": "安德烈·米亚赫科夫 / 芭芭拉·布雷尔斯卡 / 尤里·雅科夫列夫 / 亚历山大·别利亚夫斯基 / 奥尔加·瑙缅科",
         "year": 1975,
-        "misc": "苏联 / 爱情 / 喜剧"
+        "misc": "苏联 / 爱情 / 喜剧",
+        "downloaded": true
     },
     {
         "name": "飞出个未来大电影2：万背之兽",
@@ -5449,7 +5496,8 @@
         "comment": "3886",
         "crew": "凯特蕾·萨加尔 / 劳伦·汤姆 / 比利·维斯特 / 莫里斯·拉马奇 / 史蒂芬·霍金 / 特蕾丝·麦克尼尔 / 菲尔·拉马 / 大卫·克罗斯 / 约翰·迪·马吉欧 / 布莱特妮·墨菲 / 大卫·赫尔曼 / 丹·卡斯泰兰尼塔",
         "year": 2008,
-        "misc": "美国 / 动画 / 动作 / 喜剧 / 爱情 / 科幻"
+        "misc": "美国 / 动画 / 动作 / 喜剧 / 爱情 / 科幻",
+        "downloaded": true
     },
     {
         "name": "笑面人",
@@ -5478,7 +5526,7 @@
         "crew": "李丽华 / 石挥 / 刘龙 / 王蒂 / 金刚 / 叶明 / 林榛 / 傅继秋 / 程之 / 路珊 / 严肃 / 苏芸 / 张琬 / 高笑鸥 / 戚秋鸣",
         "year": 1947,
         "misc": "中国大陆 / 剧情 / 喜剧 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "恋爱与义务",
@@ -5615,7 +5663,8 @@
         "comment": "2124",
         "crew": "唐纳 / 周伯勋 / 吴茵 / 张新珠 / 顾梦鹤 / 袁牧之 / 樊伯滋 / 白璐 / 冯四知 / 蔡若虹 / 林蕙淑 / 李也非 / 张石川",
         "year": 1935,
-        "misc": "中国大陆 / 喜剧 / 爱情"
+        "misc": "中国大陆 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "野玫瑰之恋",
@@ -5691,7 +5740,7 @@
         "crew": "Albert Høeberg / Hans Christian Sørensen / Emanuel Jørgensen / Dagmar Wildenbrück / Preben Neergaard / Olaf Ussing / Anna Svierkier / Harald Holst / 索尔基尔德·鲁斯 / 丽斯贝斯·穆文 / 西格莉德·内耶恩达姆 / 普雷本·勒尔多夫·雷",
         "year": 1943,
         "misc": "丹麦 / 剧情 / 恐怖 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "夜车",
@@ -5711,7 +5760,7 @@
         "crew": "三国连太郎 / 永濑正敏 / 和久井映见 / 原田美枝子 / 田中隆三 / 浅田美代子 / 山口良一 / 浅利香津代 / 高峰凯希 / 浜村纯 / 梅津荣 / 井上千蔵 / 中本贤 / 小仓一郎 / 村田正雄 / 松村达雄 / 中村芽衣子 / 音无美纪子 / 奈良冈朋子 / 佐藤B作 / 碇矢长介 / 田中邦卫",
         "year": 1991,
         "misc": "日本 / 剧情 / 喜剧 / 爱情 / 家庭",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "H庄园的一次午餐",
@@ -5721,7 +5770,7 @@
         "crew": "大卫·苏切 / 伊丽莎白·德莫特·沃尔什 / 鲁伯特·彭利-琼斯 / 凯利·蕾莉 / 保罗·麦甘恩 / 菲利斯·洛根 / 马里昂·奥德怀尔 / 戴安娜·奎克 / 斯图尔特·莱恩 / 杰弗里·比弗斯 / 琳达·斯珀里尔 / 伊恩·泰勒 / 蒂莫西·卡尔顿",
         "year": 2003,
         "misc": "英国 / 剧情 / 爱情 / 犯罪 / 悬疑",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "男情难了",
@@ -5731,7 +5780,7 @@
         "crew": "丹尼·吉尔摩尔 / Jason Cadieux / 布伦特·卡沃 / Marcel Sabourin / 奥伯特·帕拉斯西奥 / Matthew Ferguson / 雷米·吉拉德 / 加利·法梅尔 / Alexander Chapman / 米歇尔·马克·布沙尔",
         "year": 1996,
         "misc": "加拿大 / 剧情 / 爱情 / 奇幻 / 同性",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "未知死亡",
@@ -5790,7 +5839,7 @@
         "crew": "琼·阿利森 / 彼特·劳福德 / 玛格丽特·奥布赖恩 / 伊丽莎白·泰勒 / 珍妮特·利 / 罗萨诺·布拉齐 / 玛丽·阿斯特 / 露塞尔·沃特森 / C.奥布雷·史密斯 / 伊丽莎白·帕特森 / 列昂埃姆斯 / 哈里·达文波特 / 理查德·怀勒 / Connie Gilchrist / 埃伦·科比 / 多萝西·阿伯特 / Harlan Briggs / 弗兰克·达里恩 / 丽萨戈尔姆 / June Hedin / 奥林·霍兰德 / 拉尔夫·彼得斯 / Norman Rainey / Isabel Randolph / Marilyn Thorpe / 亚瑟·沃尔什 / 威尔·赖特",
         "year": 1949,
         "misc": "美国 / 剧情 / 家庭 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "翼",
@@ -5859,7 +5908,7 @@
         "crew": "胡里奥·阿莱曼 / 安赫丽卡·玛丽亚 / 曼努埃尔·吉尔 / 比阿特丽斯·巴兹 / 米格尔·马西亚 / 何塞·巴伐利亚 / 拉斐尔·拉马斯 / 孔苏埃洛·弗兰克 / 卡洛斯·阿戈斯蒂 / 维克托·阿尔科塞尔 / 安东尼奥·拉克塞尔 / 特雷·贝拉斯克斯 / 尚华 / 李梓 / 伍经纬",
         "year": 1968,
         "misc": "墨西哥 / 剧情 / 冒险 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "跨跃彩虹",
@@ -5887,7 +5936,8 @@
         "comment": "3044",
         "crew": "巴斯特·基顿 / 凯瑟琳·麦奎尔 / 弗雷德里克·弗鲁姆 / Clarence Burton / H.N. Clugston / 诺贝·约翰逊",
         "year": 1924,
-        "misc": "美国 / 喜剧 / 动作 / 爱情"
+        "misc": "美国 / 喜剧 / 动作 / 爱情",
+        "downloaded": true
     },
     {
         "name": "蝉时雨",
@@ -5897,7 +5947,7 @@
         "crew": "松本幸四郎 / 木村佳乃 / 绪形拳 / 石田卓也 / 佐津川爱美 / 府川亮 / 藤贵子 / Masahiro Hisano / 宫藤官九郎 / 矢岛健一 / 山田明乡 / 田村亮 / 久野雅弘 / 小林太树 / 三谷升 / 原田美枝子 / 渡边绘里 / 加藤武 / 田中要次 / 今田耕司 / 大地康雄 / 柄本明 / 原沙知绘 / 大泷秀治 / 宇贺那健一",
         "year": 2005,
         "misc": "日本 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "极度狂热",
@@ -5966,7 +6016,7 @@
         "crew": "马提亚斯·施维赫夫 / 杰西卡·施瓦茨 / 弗洛里安·卢卡斯 / Jan Gregor Kremp / 毕碧安娜·贝格 / 卡罗·柳别克 / Eva Maria Bayerwaltes / 伊尔克努尔·博伊拉兹 / 奥利弗·布洛克 / 马库斯·卡尔文 / 克里斯托夫·弗兰肯 / 约翰娜·加斯多夫 / Martin Walch / 凯塔琳娜·洛伦茨 / Anabelle Lachatte / Ingeborg Westphal / 德利克·荷斯曼 / 罗泽尔·泽希 / Margret Völker / 乌尔里希·诺登 / 斯特芬·金斯 / Laura Syniawa",
         "year": 2004,
         "misc": "德国 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "你还记得多莉·贝尔吗？",
@@ -5986,7 +6036,7 @@
         "crew": "索菲柯·齐阿乌列里 / 拉马兹·迟希克瓦泽 / 康斯坦丁·斯捷潘科夫 / 多多·阿巴希泽",
         "year": 1988,
         "misc": "苏联 / 剧情 / 爱情",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "第四十一",
@@ -6005,7 +6055,8 @@
         "comment": "2774",
         "crew": "玛丽莎·苏尼纳斯 / Germano Gilioli / 安妮塔·艾克伯格 / 佩皮诺·德·菲利波 / 罗密·施耐德 / 托马斯·米连 / 罗慕洛·瓦利 / 索菲娅·罗兰 / 路易吉·朱利亚尼 / 安东尼奥·阿夸 / 南多·安卓利尼 / Silvio Bagolini / 苏索·切基·达米科 / 贾科莫·富里亚 / 朱利亚诺·杰玛 / 瓦伦蒂诺·马奇 / Dante Maggio / 波利多尔 / 里佐·弗雷多里佐 / Archie Savage / 阿尔贝托·索伦蒂诺 / 保罗·斯托帕 / Valerio Fioravanti",
         "year": 1962,
-        "misc": "意大利 / 法国 / 喜剧 / 爱情 / 奇幻"
+        "misc": "意大利 / 法国 / 喜剧 / 爱情 / 奇幻",
+        "downloaded": true
     },
     {
         "name": "莱昂莫汉神父",
@@ -6073,7 +6124,8 @@
         "comment": "2654",
         "crew": "弗雷德·阿斯泰尔 / 金杰·罗杰斯 / 埃里克・罗德斯 / 丹尼斯·欧基夫 / 基诺·科拉多 / 露西尔·鲍尔 / 爱德华·艾沃瑞特·霍顿",
         "year": 1935,
-        "misc": "美国 / 喜剧 / 歌舞 / 爱情"
+        "misc": "美国 / 喜剧 / 歌舞 / 爱情",
+        "downloaded": true
     },
     {
         "name": "德黑兰43年",
@@ -6083,7 +6135,7 @@
         "crew": "纳塔利娅·别洛赫沃斯季科娃 / 库尔德·于尔根斯 / 伊戈尔·柯斯托列夫斯基 / 克洛德·雅德 / 阿尔缅·哲加尔哈尼扬 / 乔治·热雷 / Albert Filozov / 阿兰·德龙 / 尼古拉·格林科 / 迈克·马歇尔 / 格列布·斯特里仁诺夫 / 杰斯·哈恩 / 伊芙莲嘉 / 奥莱加·费多罗 / 弗谢沃洛德·萨纳耶夫 / Aleksandr Yanvaryov / 罗迪昂·拿哈佩托夫 / Baadur Tsuladze / Hans-Dieter Schlegel / 奥列格·费奥多罗夫 / 叶连娜·多布龙拉沃娃 / 弗拉基米尔·巴索夫 / Vatslav Dvorzhetsky / 娜塔莉亚·法捷耶娃 / 居伊·德洛姆",
         "year": 1981,
         "misc": "苏联 / 法国 / 瑞士 / 西班牙 / 剧情 / 爱情 / 战争",
-        "downloaded": true
+        "downloaded": false
     },
     {
         "name": "梦幻银河",
@@ -6204,7 +6256,8 @@
         "comment": "2377",
         "crew": "弗雷德·阿斯泰尔 / 赛德·查里斯 / 奥斯卡·黎凡特 / 纳内特·法布瑞 / 杰克·布查楠 / 詹姆斯·米切尔 / 罗伯特·吉斯特 / India Adams / 哈罗德·米勒 / Matt Mattox / Frank McClure / Barbara Ruick / Frank J. Scannell / Jack Tesler / Harry Stanton / Charles Regan / Paul Power / Loulie Jean Norman / Emory Parnell / Peggy Murray / Manuel París / Owen McGiveney / George Sherwood / Alan Marston / Ben Moselle / Hal Taggart / Earl Spainard / Lotte Stein / Marc Wilder / 艾娃·加德纳 / Ernest Anderson / Barbara Bailey / Lysa Baugher / Ralph Beaumont / Patsy Bangs / Glen Walters / Stuart Wilson / Brick Sullivan / Dee Turnell / 伯特史蒂文斯 / 杰克·斯托尼 / 赫尔伯·维吉兰 / Wilson Wood / 博比·沃森 / Smoki Whitfield / Herman Boden / 安麦克雷 / Madge Blake / 奥利弗·克罗斯 / 亨利·柯登 / 詹姆斯·科纳蒂 / Lillian Culver / 罗伯特·伯顿 / Paul Bradley / Dick D'Arcy / Dulcie Day / Herman Boden / 唐·贝多 / Fred Aldrich / 朱莉·纽玛 / 史蒂夫·弗罗斯特 / 劳伦斯·蒙田 / 达格拉斯·福雷 / 理查德·亚历山大 / Estelle Etterre / Leroy Daniels / Jack Gargan / 艾尔·希尔 / Harlan Hoagland / 瑟斯顿·霍尔 / Ted Jordan / Colin Kenny / Curtis Loys Jackson Jr. / Donald Kerr / 约翰·勒普顿 / Eden Hartford / Sam Hearn / Dee Hartford / 罗伊·恩格尔 / Betty Farrington / 贝丝·弗劳尔斯 / Al Ferguson / 海伦·迪克森 / Jack Dodds / Fred Datig Jr. / 斯图尔特·霍姆斯",
         "year": 1953,
-        "misc": "美国 / 喜剧 / 家庭 / 歌舞 / 爱情"
+        "misc": "美国 / 喜剧 / 家庭 / 歌舞 / 爱情",
+        "downloaded": true
     },
     {
         "name": "真爱复苏",
@@ -6232,7 +6285,8 @@
         "comment": "2181",
         "crew": "卡罗尔·博内特 / 迈克尔·凯恩 / 丹霍姆·艾略特 / 克里斯托弗·里夫 / 戴安娜·阿戈斯蒂尼 / 凯蒂·瑞奇 / 佐伊·R·卡萨维蒂 / 尼科莱特·谢里丹 / 玛丽露·亨纳尔",
         "year": 1992,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": true
     },
     {
         "name": "卖花女",
@@ -6279,7 +6333,8 @@
         "comment": "2088",
         "crew": "沙鲁克·汗 / 卡卓儿 / 阿莫瑞什·普瑞 / 法丽达·贾拉尔 / 阿努潘·凯尔 / Parmeet Sethi / 曼迪拉·贝迪 / 萨蒂什·沙阿 / 卡伦·乔哈尔 / 尤代·乔普拉",
         "year": 1995,
-        "misc": "印度 / 喜剧 / 家庭 / 歌舞 / 爱情"
+        "misc": "印度 / 喜剧 / 家庭 / 歌舞 / 爱情",
+        "downloaded": true
     },
     {
         "name": "渴望一份真爱的感觉",
@@ -6316,7 +6371,8 @@
         "comment": "1802",
         "crew": "奥列格·塔巴科夫 / 尤里·博加特廖夫 / 安德烈·波波夫 / 叶莲娜·索洛维 / 阿宛盖·里昂惕夫 / 格列布·斯特里仁诺夫 / 叶夫根尼·斯捷布洛夫 / 叶夫盖妮亚·格鲁申科 / 尼古拉·帕斯图霍夫 / 奥列格·巴希拉什维利 / 鲁斯兰·艾赫迈托夫 / Leonid Kharitonov / 柳波芙·索科洛娃 / Nonna Terentyeva / 尼古拉·布尔里亚耶夫 / 帕维尔·卡道奇尼科夫 / 薇拉·诺维科娃 / 恩斯特·罗曼诺夫 / 尼古拉·戈洛夫 / 费多尔·斯托科夫 / 阿纳托利·罗马申 / 柳德米拉·古尔琴柯 / Andrei Razumovsky / 安德里·哈利托诺夫",
         "year": 1980,
-        "misc": "苏联 / 喜剧 / 剧情 / 爱情"
+        "misc": "苏联 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "未了阴阳情",
@@ -6390,7 +6446,8 @@
         "comment": "1769",
         "crew": "朴有天",
         "year": 2005,
-        "misc": "韩国 / 喜剧 / 爱情"
+        "misc": "韩国 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "红楼梦第六部：宝玉化石",
@@ -6408,7 +6465,8 @@
         "comment": "1982",
         "crew": "弗雷德·阿斯泰尔 / 金杰·罗杰斯 / 爱德华·艾沃瑞特·霍顿 / Vesey O'Davoren / Charles Irwin / 弗兰克·莫兰 / Torben Meyer / Alphonse Martell / 乔治·麦格瑞 / Lew Kelly / 曼坦·莫兰 / Henry Mowbray / 伦纳德米迪 / 哈丽特·赫特 / Sam Wren / 理查德·塔克 / Spencer Teakle / 玛丽·斯图尔特 / Matty Roubert / 罗尔夫·塞丹 / 安·休梅克 / Jack Rice / Tiny Jones / 山姆·哈里斯 / William Burress / 埃里克·布洛尔 / 马修·博尔顿 / Sherwood Bailey / 本·亚历山大 / 诺曼·安斯利 / Sam Hayes / Monte Collins / William Brisbane / 西德尼·布雷西 / 查尔斯·科尔曼 / Helena Grant / Ketti Gallian / 查理·霍尔 / Eddie Hall / 波利娜·加龙 / Jane Hamilton / Dudley Dickerson / Jean De Briac / Harry Bowen / 杰罗姆·柯万",
         "year": 1937,
-        "misc": "美国 / 喜剧 / 歌舞 / 爱情"
+        "misc": "美国 / 喜剧 / 歌舞 / 爱情",
+        "downloaded": true
     },
     {
         "name": "解放2：突破",
@@ -6418,7 +6476,7 @@
         "crew": "尼古拉·奥拉宁 / 拉里莎·戈卢布金娜 / Boris Zajdenberg / 谢尔盖·尼科年科 / 弗谢沃洛德·萨纳耶夫 / 弗拉基米尔·萨莫伊洛夫 / 尤里·卡莫尼 / Valeri Nosik / 米哈伊尔·乌里扬诺夫 / 弗拉德连·达维多夫 / Yevgeni Burenkov / 谢尔盖·哈钦科 / 弗拉季斯拉夫·斯特尔热利奇克 / 德米特里·弗兰科 / Bukhuti Zakariadze / Stanislaw Jaskiewicz / Fritz Diez / 伊沃·加拉尼 / Gerd Michael Henneberg / Siegfried Weiß / 汉约·哈塞 / Peter Sturm / 弗洛林·彼耶尔西克 / 阿尔乔姆·卡拉佩强 / 芭芭拉·布雷尔斯卡 / 达尼尔·奥勒布里斯基 / 韦恩泽斯洛·格林斯基 / Ignacy Machowski / Michal Adamczewski / Viktor Bajkov / Nikolai Bogolyubov / 格奥尔吉·布尔科夫 / 维尔纳·迪塞尔 / 尤里·杜布罗温 / Olev Eskola / 采扎里·尤尔斯基 / 尤里·基列耶夫 / 米哈伊尔·科克申诺夫 / Hans-Hartmut Krüger / Heino Mandri / Yuri Martynov / Peter Marx / Grigory Mikhaylov / Ivan Mikolajchuk / 尤里·纳扎罗夫 / 列夫·波利亚科夫 / Roman Tkachuk / 亚历山大·库兹涅佐夫 / Georgi Tusuzov / 瓦西里·舒克申",
         "year": 1970,
         "misc": "苏联 / 波兰 / 南斯拉夫 / 东德 / 意大利 / 剧情 / 爱情 / 战争",
-        "downloaded":true
+        "downloaded": true
     },
     {
         "name": "珍妮的画像",
@@ -6445,7 +6503,8 @@
         "comment": "1825",
         "crew": "唐泽寿明 / 江角真纪子 / 玉置浩二 / 今村惠子 / 泽村一树 / 渡边绘里",
         "year": 1997,
-        "misc": "日本 / 喜剧 / 剧情 / 爱情"
+        "misc": "日本 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "早春二月",
@@ -6481,7 +6540,8 @@
         "comment": "1649",
         "crew": "朱莉·安德鲁斯 / 詹姆斯·加纳 / 罗伯特·普雷斯顿",
         "year": 1982,
-        "misc": "英国 / 美国 / 歌舞 / 爱情 / 喜剧"
+        "misc": "英国 / 美国 / 歌舞 / 爱情 / 喜剧",
+        "downloaded": true
     },
     {
         "name": "星期一早晨",
@@ -6490,7 +6550,8 @@
         "comment": "1767",
         "crew": "Jacques Bidou / Anne Kravz-Tarnavsky / Narda Blanchet / Radslav Kinski / Dato Tarielachvili / Adrien Pachod / Pascal Chanal / Myriam Laidouni-Denis / Laura-Kay Monnet / Nicolas Ponthus / Pierre Tricaud / Armand Chagot / Vincent Douhadji / Anne-Jacqueline Bousch / 安娜·弗洛里·拉穆尔 / Jérémy Rochigneux / Yannick Carpentier / Christian Cabollet / Claude Coquard / Lily Lavina",
         "year": 2002,
-        "misc": "法国 / 意大利 / 剧情 / 喜剧 / 爱情"
+        "misc": "法国 / 意大利 / 剧情 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "吹牛伯爵历险记",
@@ -6509,7 +6570,8 @@
         "comment": "1653",
         "crew": "罗曼·杜里斯 / 罗纳·哈特纳 / 瓦伦汀·蒂奥多修",
         "year": 1997,
-        "misc": "法国 / 罗马尼亚 / 喜剧 / 剧情 / 音乐 / 爱情"
+        "misc": "法国 / 罗马尼亚 / 喜剧 / 剧情 / 音乐 / 爱情",
+        "downloaded": false
     },
     {
         "name": "有时快乐有时悲伤",
@@ -6518,7 +6580,8 @@
         "comment": "1593",
         "crew": "阿米达普·巴强 / 沙鲁克·汗 / 赫里尼克·罗斯汉 / 卡卓儿 / 卡琳娜·卡普尔 / 拉妮·玛克赫吉 / Shashikala / Rahul Nath / Michael Holding / Vikas Sethi / Zohra Sehgal / 贾雅·巴杜里 / 裘格尔·汗斯拉吉 / Ian Botham / 雅利安·汗 / 法丽达·贾拉尔 / 乔尼·里沃 / 阿洛克·纳特 / 阿里·阿吉",
         "year": 2001,
-        "misc": "印度 / 喜剧 / 歌舞 / 爱情"
+        "misc": "印度 / 喜剧 / 歌舞 / 爱情",
+        "downloaded": false
     },
     {
         "name": "情场世界波",
@@ -6527,7 +6590,8 @@
         "comment": "1693",
         "crew": "阿尔蒂斯·德·彭居埃恩 / 帕斯卡·艾比约 / 伊丽莎白·维塔利 / 安托万·迪莱里 / 迪德·伯努瓦 / 玛丽-阿尔玫乐·德吉 / 塞尔日·里亚布金 / 弗朗索瓦·博兰 / 克洛维斯·科尔尼亚克 / 费利佩·曼吉安 / 雷米·罗巴汉 / 米歇尔‧邦波 / 托马斯·夏布洛尔 / 弗朗索瓦·勒凡托 / 杰罗姆·霍茨基 / Patrick Lambert / 安妮·卡隆 / 克里斯蒂安·查尔梅坦特 / 皮埃尔·奥瑟达 / 瓦莱丽·本圭圭 / 菲利普·赫里森 / Emile-John Heck / Clara Bagni / Fabrice Bagni / Bruno Slagmulder / 安娜·盖洛 / Colette Maire / 让-米歇尔·蒙洛克",
         "year": 2001,
-        "misc": "法国 / 喜剧 / 爱情"
+        "misc": "法国 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "囚车驶向圣地",
@@ -6536,7 +6600,8 @@
         "comment": "1667",
         "crew": "利昂尔·阿贝兰斯基 / 吕菲斯 / 克莱芒·阿拉里 / 米歇尔·穆勒 / 阿加泽·德·拉·方丹 / Ernest Maftei / Petre Lupu / 乔治斯·西蒂斯 / Savel Stiopul / 加德·艾尔马莱 / 约翰·雷森 / Zwi Kanar / 勒兹万·瓦西莱斯库 / Michel Israel / 玛丽-若斯·纳特 / 卢米妮察·盖奥尔吉乌 / Robert Borremans / 康斯坦丁·科德雷斯库 / Florin Kevorkian / Ovidiu Cuncea / 西奥多·丹内蒂 / 图杜雷尔·菲利蒙 / 尤金妮娅·塞尔班",
         "year": 1998,
-        "misc": "比利时 / 法国 / 以色列 / 荷兰 / 罗马尼亚 / 爱情 / 战争 / 喜剧 / 剧情"
+        "misc": "比利时 / 法国 / 以色列 / 荷兰 / 罗马尼亚 / 爱情 / 战争 / 喜剧 / 剧情",
+        "downloaded": false
     },
     {
         "name": "弗洛斯河上的磨房",
@@ -6599,7 +6664,8 @@
         "comment": "1535",
         "crew": "沃尔特·马修 / 英格丽·褒曼 / 歌蒂·韩 / 杰克韦斯顿 / 里克·兰兹 / 维托·斯科蒂 / 艾琳 赫维 / Irwin Charone / Matthew Saks / 穆瓦科·卡姆布卡 / Tani Guthrie / Barbara Randolph / 拉尔夫·罗伯茨 / 露西·萨罗扬",
         "year": 1969,
-        "misc": "美国 / 喜剧 / 爱情"
+        "misc": "美国 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "寅次郎的故事2：我爱我阿妈",
@@ -6618,7 +6684,8 @@
         "comment": "1482",
         "crew": "艾曼纽·德芙 / 杰弗里·凯里 / 奥利维尔·雷堡汀 / 莫里斯·加瑞尔 / 马修·阿马立克 / 米格伦·米切夫 / 让-保罗·鲁西荣 / 叶卡捷琳娜·鲁韦尔 / 凯瑟琳·德纳芙 / 诺埃米·洛夫斯基 / 扬·哈梅内克 / 娜塔莉·布伏 / 伊波利特·吉拉尔多 / 吉勒·科昂 / 弗兰西斯·莱珀雷 / 阿奇德·哈米 / 安德丽·坦茜 / 玛佳丽·沃克 / 埃马努埃尔·萨兰热 / 弗雷德·埃波",
         "year": 2004,
-        "misc": "法国 / 剧情 / 喜剧 / 爱情"
+        "misc": "法国 / 剧情 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "水晶男孩",
@@ -6690,7 +6757,8 @@
         "comment": "1308",
         "crew": "德尼·拉旺 / 丘尔潘·哈马托娃 / 菲利普·克莱",
         "year": 1999,
-        "misc": "德国 / 喜剧 / 剧情 / 爱情"
+        "misc": "德国 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "心荡神驰",
@@ -6699,7 +6767,8 @@
         "comment": "1330",
         "crew": "克里斯蒂安·史莱特 / 玛丽莎·托梅 / 罗茜·佩雷兹 / Robert Malone / Joe Minjares / 理查德·格鲁辛 / Allen Hamilton / 约翰·比斯利 / 凯尔·赛科特 / 威利·加森 / 文森特·卡塞瑟",
         "year": 1993,
-        "misc": "美国 / 爱情 / 喜剧 / 剧情"
+        "misc": "美国 / 爱情 / 喜剧 / 剧情",
+        "downloaded": false
     },
     {
         "name": "鎏金的声音",
@@ -6708,7 +6777,8 @@
         "comment": "1275",
         "crew": "玛丽亚·贝尔金 / 弗拉基米尔·弗里德曼 / 伊夫林·哈格尔 / 乌里·克劳兹纳 / 伊丽莎白·孔",
         "year": 2019,
-        "misc": "以色列 / 剧情 / 喜剧 / 爱情"
+        "misc": "以色列 / 剧情 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "穿长靴的猫",
@@ -6717,7 +6787,8 @@
         "comment": "1271",
         "crew": "石川进 / 水垣洋子 / 水森亚土 / 益田喜顿 / 熊仓一雄 / 藤田淑子 / 榊原留美 / 野泽雅子 / 白石冬美 / 野村道子 / 内海贤二 / 爱川钦也 / 八代骏 / 大竹宏 / 北川米彦 / 田之中勇 / 野田圭一 / 小池朝雄",
         "year": 1969,
-        "misc": "日本 / 动画 / 冒险 / 喜剧 / 家庭 / 奇幻 / 爱情"
+        "misc": "日本 / 动画 / 冒险 / 喜剧 / 家庭 / 奇幻 / 爱情",
+        "downloaded": false
     },
     {
         "name": "现代爱情",
@@ -6726,7 +6797,8 @@
         "comment": "1307",
         "crew": "托马斯·儒阿特 / Paulina Nemcova / 斯特凡·德巴 / 弗兰西斯·莱珀雷 / 斯蒂芬·卢梭 / 亚历山德拉·拉米 / 梅兰妮·贝尔内尔 / 贝热尼丝·贝乔 / 大卫·拉艾 / 克洛蒂尔·蔻洛 / 凯德·麦拉德",
         "year": 2008,
-        "misc": "法国 / 喜剧 / 歌舞 / 爱情"
+        "misc": "法国 / 喜剧 / 歌舞 / 爱情",
+        "downloaded": false
     },
     {
         "name": "蝴蝶小姐",
@@ -6735,7 +6807,8 @@
         "comment": "1204",
         "crew": "爱德华·艾伯特 / 歌蒂·韩 / 艾琳·哈卡特 / 保罗·迈克尔·格拉泽 / 迈克尔·沃伦",
         "year": 1972,
-        "misc": "美国 / 喜剧 / 剧情 / 音乐 / 爱情"
+        "misc": "美国 / 喜剧 / 剧情 / 音乐 / 爱情",
+        "downloaded": false
     },
     {
         "name": "小天使",
@@ -6744,7 +6817,8 @@
         "comment": "1212",
         "crew": "秀兰·邓波儿 / 罗斯玛丽·埃姆斯 / 乔尔·麦克雷 / 莱尔·塔尔博特 / 埃琳·奥布莱恩-穆尔 / J·法瑞尔·麦克唐纳 / 普多勒斯·汉尼福德 / 玛格丽特·阿姆斯特朗 / 丽塔·欧文 / 李奥纳多·凯瑞 / Gus Van / Jack Baxley / 杰克·多诺霍",
         "year": 1935,
-        "misc": "美国 / 剧情 / 儿童 / 喜剧 / 爱情 / 家庭"
+        "misc": "美国 / 剧情 / 儿童 / 喜剧 / 爱情 / 家庭",
+        "downloaded": false
     },
     {
         "name": "旅行",
@@ -6753,7 +6827,8 @@
         "comment": "1210",
         "crew": "Radek Pastrnak / 菲利普·伦茨",
         "year": 1994,
-        "misc": "捷克 / 喜剧 / 剧情 / 爱情"
+        "misc": "捷克 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "通讯员",
@@ -6762,7 +6837,8 @@
         "comment": "1133",
         "crew": "叶夫多基娅·乌鲁索娃 / Andrei Vertogradov / 弗•杜纳耶夫斯基 / 薇拉·索特尼科娃 / 埃莱奥诺拉·祖布科娃 / Alika Smekhova / 安娜斯塔西娅•涅莫里亚耶娃 / 亚历山大·潘克拉托夫 / 斯韦特兰娜·克留奇科娃 / 谢尔盖·乔尼什维利 / 弗拉基米尔·缅绍夫 / 奥列格·巴希拉什维利 / 茵娜·丘里科娃 / 阿列夫丁娜·叶夫多基莫娃",
         "year": 1986,
-        "misc": "苏联 / 喜剧 / 剧情 / 爱情"
+        "misc": "苏联 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "东方西方",
@@ -6780,7 +6856,8 @@
         "comment": "1130",
         "crew": "让-保罗·贝尔蒙多 / 玛尔琳·若贝尔 / 劳拉·安托内利 / 米歇尔·奥克莱尔 / 朱利安·吉约马尔 / 马里奥·达维德 / 查尔斯·登纳 / 乔治·贝勒 / 保罗·克罗谢 / 马克·杜迪库尔 / 帕特里克·普雷让 / Sim / 皮埃尔·布拉瑟 / 萨米·弗雷 / 让·巴尔内 / 莫里斯·巴里埃 / 弗朗索瓦·卡德 / 埃尔马诺·卡萨诺瓦 / 帕特里克·迪瓦尔 / 弗农·多布切夫 / 吕克·弗洛里昂 / 莫妮克·加尼埃 / 比利·卡恩斯 / 马丹·拉尔蒂格 / 勒内·莫拉尔 / 德尼兹·佩隆 / 让·蒂尔利埃 / 让-马里·维尔塞尔 / 昂利·吉贝 / 雅克·勒格拉 / 让-皮埃尔·马里埃尔",
         "year": 1971,
-        "misc": "法国 / 意大利 / 罗马尼亚 / 动作 / 冒险 / 喜剧 / 爱情"
+        "misc": "法国 / 意大利 / 罗马尼亚 / 动作 / 冒险 / 喜剧 / 爱情",
+        "downloaded": false
     },
     {
         "name": "前三",
@@ -6815,7 +6892,8 @@
         "comment": "1066",
         "crew": "叶甫盖尼·齐加诺夫 / 亚历山大·巴希罗夫 / 爱卡特琳娜·菲杜洛娃 / Aleksandr Khvan / 伊琳娜·拉赫曼诺娃 / 安德烈·克拉斯科 / Tatyana Kravchenko / 基里尔·皮罗戈夫 / 阿尔焦姆·谢马金 / 弗拉基米尔·马什科夫 / 帕佛尔·巴夏克",
         "year": 2006,
-        "misc": "俄罗斯 / 喜剧 / 剧情 / 爱情"
+        "misc": "俄罗斯 / 喜剧 / 剧情 / 爱情",
+        "downloaded": false
     },
     {
         "name": "我美丽的守护天使",
@@ -6852,6 +6930,6 @@
         "crew": "朗·钱尼 / 诺曼·克里 / 琼·克劳馥 / John George / Frank Lanning / Italia Frandi / Venezia Frandi / Julian Rivero / Billy Seay / 约翰·圣波利斯 / 波莉·莫兰",
         "year": 1927,
         "misc": "美国 / 剧情 / 爱情 / 惊悚",
-        "downloaded":true
+        "downloaded": true
     }
 ]
